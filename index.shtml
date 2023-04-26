@@ -11,6 +11,10 @@
         <!--#include file="assets/includes/header.inc"-->
     <!-- END : Header -->
 
+    <!-- START : Banner -->
+        <!--#include file="assets/includes/banner.inc"-->
+    <!-- END : Banner -->
+
     <!-- START : MFS what is it -->
     <div class="section what-is-it">    
         <div class="container">
