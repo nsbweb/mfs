@@ -31,8 +31,18 @@ body { font-family:'Montserrat', sans-serif;}
 .img-bdr.img-reverse::before { transform:rotate(4deg);}
 .img-bdr.img-reverse::before { right:-20px; top:20px; left:20px; bottom:-20px;}
 .img-bdr.img-reverse::after {  transform:rotate(-2deg); }
+.img-bdr.no-bdr::before,
+.img-bdr.no-bdr::after { display: none;}
 
 .floating-images { position:absolute; top: 0; height: 100%; display: flex; justify-content: center; align-items: center;}
+
+.hexa-btn { position: relative; }
+.hexa-btn > a { font-family:'Agenda'; font-weight:900; font-size: 42px; background: url(../images/book-btn-bg.png) no-repeat left top; background-size: 100% 100%; width: 222px; height: 184px; display: flex; flex-direction: column; align-items: center; justify-content: center; line-height: 0.8; }
+.hexa-btn > a > span { position: relative; color: #cc3399; }
+.hexa-btn > a:hover > span { color: #00ff99; }
+.hexa-btn > a > span:before { content: ''; position: absolute; left: calc(50% - calc(120%/2)); bottom: -6px; width: 120%; height: 22px; background: #fff; z-index: -1;}
+.hexa-btn.pink-bg > a { background-image: url(../images/book-btn-pink-bg.png) }
+p + .hexa-btn { margin-top: 40px; }
 /* Common CSS */
 
 
@@ -68,11 +78,7 @@ body.sticky .header.sticky { padding: 20px 0; }
 .banner .banner-txt .location-txt { font-size: 17px; margin-top: 4px;} 
 .banner .banner-image { width: 719px; max-height: 568px; overflow: hidden; display: block; position: relative; z-index: 1; bottom: 1px;}
 .banner .banner-image > img { max-width: 100%; object-fit: contain; object-position: center top; display: block; margin-bottom: -10px; }
-.banner .banner-btn { position: absolute; right: 0; top: 4%; z-index: 3;}
-.banner .banner-btn > a { font-family:'Agenda'; font-weight:900; font-size: 42px; background: url(../images/book-btn-bg.png) no-repeat left top; background-size: 100% 100%; width: 222px; height: 184px; display: flex; flex-direction: column; align-items: center; justify-content: center; line-height: 0.8; }
-.banner .banner-btn > a > span { position: relative; color: #cc3399; }
-.banner .banner-btn > a:hover > span { color: #00ff99; }
-.banner .banner-btn > a > span:before { content: ''; position: absolute; left: calc(50% - calc(120%/2)); bottom: -6px; width: 120%; height: 22px; background: #fff; z-index: -1;}
+.banner .hexa-btn { position: absolute; right: 0; top: 4%; z-index: 3;}
 .banner-overlay-white-bt { width:100%; height: 64px; position: absolute; right: 0; bottom: -2px; z-index: 9;}
 .banner-overlay-white-bt:before { content: ''; position: absolute; right: 0; bottom: 0; width: 0; height: 0; border-top: 64px solid transparent; border-right: 2030px solid #ffffff; border-bottom: 0px solid transparent; }
 .banner-overlay-green-bt { width:100%; height: 164px; position: absolute; right: -300px; bottom: -1px; z-index: 7;}
@@ -83,12 +89,17 @@ body.sticky .header.sticky { padding: 20px 0; }
  .banner-overlay-green-lt { width:100%; height: 164px; position: absolute; left: 0px; bottom: -1px; z-index: 9;}
  .banner-overlay-green-lt:before { content: ''; position: absolute; left: 0; bottom: -49px; width: 0; height: 0; border-top: 2030px solid transparent;
  border-left: 610px solid #00ff99; border-bottom: 51px solid transparent; }
+
+ .static-banner { min-height: 210px; }
+ .static-banner .banner-overlay-green-bt { width:100%; height: 104px; position: absolute; left: 0px; bottom: -1px; z-index: 9; }
+ .static-banner .banner-overlay-green-bt:before { right: 0; bottom: -0px; width: 0; height: 0; border-top: 104px solid transparent;
+    border-right: 2540px solid #00ff99; border-left: 0 solid transparent; border-bottom: 0px solid transparent; }
 /* Starts : Banner */
 
 /* Image Contact Section */
 .img-content-sec { display:flex; justify-content:space-between; align-items:center; gap:0 80px;}
-.img-content-sec .img-sec { min-width:50%; }
-.img-content-sec .content-sec { min-width:50%; }
+.img-content-sec .img-sec,
+.img-content-sec .content-sec { min-width:50%; max-width:50%; }
 .img-content-sec .content-sec h3 {  }
 .img-content-sec .content-sec h3 { font-size:40px; line-height:1; margin-bottom:20px;}
 .img-content-sec .content-sec h3 > span { display:block; }

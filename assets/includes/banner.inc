@@ -11,7 +11,7 @@
                     <h6 class="color-white location-txt">8 Northumberland, London</h6>
                 </div>
             </div>
-            <div class="banner-btn">
+            <div class="hexa-btn">
                 <a href="#" class="btn btn-book">BOOK TICKETS <span>NOW</span></a>
             </div>  
             <div class="banner-image">
