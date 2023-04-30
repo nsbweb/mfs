@@ -14,128 +14,86 @@
     <!-- START : Banner -->
         <!--#include file="assets/includes/banner.inc"-->
     <!-- END : Banner -->
-
-    <!-- START : MFS what is it -->
-    <div class="section what-is-it">    
+    
+    <div class="main-content">
         <div class="container">
-            <span class="floating-images wha-yellow-dots">
-                <img class="img-fluid" src="assets/images/yellow-dots.png" alt="what-bg-yellow-dots" />
-            </span>
-            <span class="floating-images wha-bg-left">
-                <img class="img-fluid" src="assets/images/MFS_BG.png" alt="what-is-it-bg" />
-            </span>
-            <span class="floating-images wha-bg-right">
-                <img class="img-fluid" src="assets/images/MFS_BG.png" alt="MFS_BG" />
-            </span>
-            <span class="floating-images wha-pink-line">
-                <img class="img-fluid" src="assets/images/pink-line.png" alt="bg" />
-            </span>
+            <!-- START : All Shapes -->
+                <!--#include file="assets/includes/all-shapes.inc"-->
+            <!-- END : All Shapes -->
 
-            <div class="img-content-sec">            
-                <div class="img-bdr">
-                    <img class="img-fluid" src="assets/images/what-is-it.jpg" alt="What-is-it" />
+            <!-- START : MFS what is it -->
+            <div class="section what-is-it">
+                <div class="img-content-sec">            
+                    <div class="img-bdr">
+                        <img class="img-fluid" src="assets/images/what-is-it.jpg" alt="What-is-it" />
+                    </div>
+                    <div class="content-sec">
+                        <h3>THE MODERN FAMILY SHOW: <span>WHO ARE WE?</span></h3>
+                        <p>Founded by Michael and Wes Johnson-Ellis, known as TwoDadsUK, Dads via UK Surrogacy. The Modern Family Show is an educational  amily-building event taking place in the UK. A show like no other, designed to safely guide and support the LGBTQ+ community to understand their options for wanting children. Are you interested in; Surrogacy and IVF/IUI, Adoption, Fostering, Co-Parenting, Fertility Preservation, Solo Parenting, and Egg/Sperm Donation?</p>
+                        <a href="about.shtml" class="btn btn-bdr btn-pink"><span>Find out more about us</span></a>
+                    </div>                
                 </div>
+            </div>
+            <!-- END : MFS what is it -->
+
+            <!-- START : Why did we create -->
+            <div class="section why-create">
+                <div class="img-content-sec reverse">
+                    <div class="img-bdr">
+                        <img class="img-fluid" src="assets/images/why-create.jpg" alt="Why-did-we-create" />
+                    </div>
+                    <div class="content-sec">
+                        <h3>WHY DID WE CREATE <span>THE MODERN FAMILY SHOW?</span></h3>
+                        <p>Having witnessed discrimination firsthand when it comes to family-building as a gay couple, Michael and Wes wanted to create a safe space for the LGBTQ+ community to come and speak to experts, professionals and like-minded people.</p>
+                    </div>
+                </div>
+            </div>
+            <!-- START : Why did we create -->
+
+            <!-- START : Why attend -->
+            <div class="section why-attend">
+                <div class="img-content-sec">
+                    <div class="img-bdr">
+                        <img class="img-fluid why-attend-img" src="assets/images/why-attend-the-show.jpg" alt="Why-attend-the-show" />
+                    </div>  
+                    <div class="content-sec">
+                        <h3>WHY ATTEND <span>THE SHOW...</span></h3> 
+                        <p>The Modern Family Show provides you with the resources, the experts and give you the safe space you need to talk in private as part of our open surgery service. We can support the most exciting journey of your life ensuring you're better informed, whilst being treated with the respect you deserve.</p>
+                        <p>We've designed The Modern Family Show to not only look and feel different, but to deliver an event that will help you take the next exciting step on a journey to building your family.</p>
+                    </div>
+                </div>
+            </div>
+            <!-- END : Why Attend -->
+
+            <!-- START : Last Show -->
+            <div class="section last_show">
                 <div class="content-sec">
-                    <h3>THE MODERN FAMILY SHOW: <span>WHO ARE WE?</span></h3>
-                    <p>Founded by Michael and Wes Johnson-Ellis, known as TwoDadsUK, Dads via UK Surrogacy. The Modern Family Show is an educational  amily-building event taking place in the UK. A show like no other, designed to safely guide and support the LGBTQ+ community to understand their options for wanting children. Are you interested in; Surrogacy and IVF/IUI, Adoption, Fostering, Co-Parenting, Fertility Preservation, Solo Parenting, and Egg/Sperm Donation?</p>
-                    <a href="about.shtml" class="btn btn-bdr btn-pink"><span>Find out more about us</span></a>
-                </div>                
-            </div>
-        </div>
-    </div>
-    <!-- END : MFS what is it -->
-
-    <!-- START : Why did we create -->
-    <div class="section why-create">
-        <div class="container">
-            <span class="floating-images why-green-line">
-                <img class="img-fluid" src="assets/images/green-line.png" alt="why-bg-greenline" />
-            </span>
-            <span class="floating-images why-bg-img">
-                <img class="img-fluid" src="assets/images/why-create-bg.png" alt="why-create-bg" />
-            </span>
-            <span class="floating-images why-yellow-dots">
-                <img class="img-fluid" src="assets/images/yellow-dots.png" alt="why-create-bg-yellow-dots" />
-            </span>
-            <span class="floating-images why-bg-right">
-                <img class="img-fluid" src="assets/images/why-create-bg-right.png" alt="why-create-bg-right" />
-            </span>
-
-            <div class="img-content-sec reverse">
-                <div class="img-bdr">
-                    <img class="img-fluid" src="assets/images/why-create.jpg" alt="Why-did-we-create" />
-                </div>
-                <div class="content-sec">
-                    <h3>WHY DID WE CREATE <span>THE MODERN FAMILY SHOW?</span></h3>
-                    <p>Having witnessed discrimination firsthand when it comes to family-building as a gay couple, Michael and Wes wanted to create a safe space for the LGBTQ+ community to come and speak to experts, professionals and like-minded people.</p>
+                    <h3 class="text-center text-uppercase">Check out our last show...</h3>
+                    <div class="show-gallery owl-carousel owl-theme">
+                        <div class="gal-cont"><img src="assets/images/last-show-img1.jpg" alt="last_show_member1"></div>
+                        <div class="gal-cont"><img src="assets/images/last-show-img2.jpg" alt="last_show_member2"></div>
+                        <div class="gal-cont"><img src="assets/images/last-show-img3.jpg" alt="last_show_member3"></div>
+                        <div class="gal-cont"><img src="assets/images/last-show-img4.jpg" alt="last_show_member4"></div>
+                        <div class="gal-cont"><img src="assets/images/last-show-img1.jpg" alt="last_show_member1"></div>
+                        <div class="gal-cont"><img src="assets/images/last-show-img2.jpg" alt="last_show_member2"></div>
+                        <div class="gal-cont"><img src="assets/images/last-show-img3.jpg" alt="last_show_member3"></div>
+                        <div class="gal-cont"><img src="assets/images/last-show-img4.jpg" alt="last_show_member4"></div>
+                    </div>
                 </div>
             </div>
+            <!-- END : Last Show -->
         </div>
     </div>
-    <!-- START : Why did we create -->
-
-    <!-- START : Why attend -->
-    <div class="section why-attend">
-        <div class="container">
-            <span class="floating-images att-pink-dots">
-                <img class="img-fluid" src="assets/images/pink-dots.png" alt="attend-pink-dots" />
-            </span>
-            <span class="floating-images att-green-line">
-                <img class="img-fluid" src="assets/images/green-line.png" alt="attend-green-line" />
-            </span>
-            <span class="floating-images att-pink-line">
-                <img class="img-fluid" src="assets/images/pink-line.png" alt="attend-pink-line" />
-            </span>
-            <span class="floating-images att-yellow-line">
-                <img class="img-fluid" src="assets/images/yellow-line.png" alt="attend-yellow-line" />
-            </span>
-
-            <div class="img-content-sec">
-                <div class="img-bdr">
-                    <img class="img-fluid why-attend-img" src="assets/images/why-attend-the-show.jpg" alt="Why-attend-the-show" />
-                </div>  
-                <div class="content-sec">
-                    <h3>WHY ATTEND <span>THE SHOW...</span></h3> 
-                    <p>The Modern Family Show provides you with the resources, the experts and give you the safe space you need to talk in private as part of our open surgery service. We can support the most exciting journey of your life ensuring you're better informed, whilst being treated with the respect you deserve.</p>
-                    <p>We've designed The Modern Family Show to not only look and feel different, but to deliver an event that will help you take the next exciting step on a journey to building your family.</p>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- END : Why Attend -->
-
-    <!-- START : Last Show -->
-    <div class="section last_show">
-        <div class="container">
-            <span class="floating-images last-show-bg-left">
-                <img class="img-fluid" src="assets/images/last-show-bg.png" alt="last-show-bg-left" />
-            </span>            
-            <span class="floating-images last-show-green-dots">
-                <img class="img-fluid" src="assets/images/green-dots.png" alt="last-show-green-dots" />
-            </span>
-
-            <div class="content-sec">
-                <h3 class="text-center text-uppercase">Check out our last show...</h3>
-                <ul class="show-gallery">
-                    <li><img class="img-fluid last_show_img" src="assets/images/last-show-img1.jpg" alt="last_show_member1"></li>
-                    <li ><img class="img-fluid last_show_img" src="assets/images/last-show-img2.jpg" alt="last_show_member2"></li>
-                    <li><img class="img-fluid last_show_img" src="assets/images/last-show-img3.jpg" alt="last_show_member3"></li>
-                    <li><img class="img-fluid last_show_img" src="assets/images/last-show-img4.jpg" alt="last_show_member4"></li>
-                </ul>
-            </div>
-        </div>
-    </div>
-    <!-- END : Last Show -->
 
     <!-- START : LAST SHOW TEXT PART -->
     <div class="last_show_text">
         <div class="container">
             <div class="row">
-                <div class="col-xl-6 ls-text-sec">
+                <div class="col-lg-6 ls-text-sec">
                     <h3>"TRULY AN AMAZING  EXPERIENCE. CONGRATULATIONS ON PUTTING TOGETHER SUCH AN INCREDIBLE EVENT, LOOKING FORWARD TO NEXT YEAR ”</h3>
                     <span class="text-uppercase"><b>Donar Conception Network</b></span>
                 </div>
-                <div class="col-xl-6 ls-text-sec">
+                <div class="col-lg-6 ls-text-sec">
                     <h3>" WE LOVED IT, WHAT A  FANTASTIC DAY! THANKS FOR LETTING US BE A PART  OF IT "</h3>
                     <span class="text-uppercase"><b>Silver cross</b></span>
                 </div>

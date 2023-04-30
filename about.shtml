@@ -15,163 +15,125 @@
         <!--#include file="assets/includes/static-banner.inc"-->
     <!-- END : Banner -->
 
-    <!-- START : MFS what is it -->
-    <div class="section what-is-it">    
+    <div class="main-content">
         <div class="container">
-            <span class="floating-images wha-yellow-dots">
-                <img class="img-fluid" src="assets/images/yellow-dots.png" alt="what-bg-yellow-dots" />
-            </span>
-            <span class="floating-images wha-bg-left">
-                <img class="img-fluid" src="assets/images/MFS_BG.png" alt="what-is-it-bg" />
-            </span>
-            <span class="floating-images wha-bg-right">
-                <img class="img-fluid" src="assets/images/MFS_BG.png" alt="MFS_BG" />
-            </span>
-            <span class="floating-images wha-pink-line">
-                <img class="img-fluid" src="assets/images/pink-line.png" alt="bg" />
-            </span>
-
-            <div class="img-content-sec reverse">            
-                <div class="img-bdr">
-                    <img class="img-fluid who-we-are-img" src="assets/images/who-we-are-abt-us.jpg" alt="Who we are" />
+            <!-- START : All Shapes -->
+                <!--#include file="assets/includes/all-shapes.inc"-->
+            <!-- END : All Shapes -->
+            
+            <!-- START : MFS what is it -->
+            <div class="section what-is-it">
+                <div class="img-content-sec reverse">            
+                    <div class="img-bdr">
+                        <img class="img-fluid who-we-are-img" src="assets/images/who-we-are-abt-us.jpg" alt="Who we are" />
+                    </div>
+                    <div class="content-sec">
+                        <h3>WHO WE ARE?</h3>
+                        <p>The successful and ground-breaking show was originally created and launched in London by Michael and Wes Johnson-Ellis from the UK, active LGBTQ+ bloggers and campaigners for the community. They are also Dads to their children, Talulah (5) and Duke (2) born  via Gestational Surrogacy. They know only all too well how difficult itcan be navigating all the options and pathways for LGBTQ+ people, so they set out to change this. They also wanted to create an education-first event, providing a safe space for all the attendees to network and discuss the varied options available.</p>
+                        <p>The first London show took place on the 18th September 2021 with wonderful success. Michael and Wes and the wider team are all  passionate about raising awareness and driving change, and this is why they wanted to keep bring the show back every year.</p>
+                    </div>                
                 </div>
+            </div>
+            <!-- END : MFS what is it -->
+
+            <!-- START : Meet The Team -->
+            <div class="section why-create">
                 <div class="content-sec">
-                    <h3>WHO WE ARE?</h3>
-                    <p>The successful and ground-breaking show was originally created and launched in London by Michael and Wes Johnson-Ellis from the UK, active LGBTQ+ bloggers and campaigners for the community. They are also Dads to their children, Talulah (5) and Duke (2) born  via Gestational Surrogacy. They know only all too well how difficult itcan be navigating all the options and pathways for LGBTQ+ people, so they set out to change this. They also wanted to create an education-first event, providing a safe space for all the attendees to network and discuss the varied options available.</p>
-                    <p>The first London show took place on the 18th September 2021 with wonderful success. Michael and Wes and the wider team are all  passionate about raising awareness and driving change, and this is why they wanted to keep bring the show back every year.</p>
-                </div>                
-            </div>
-        </div>
-    </div>
-    <!-- END : MFS what is it -->
-
-    <!-- START : Meet The Team -->
-    <div class="section why-create">
-        <div class="container">
-            <span class="floating-images why-bg-img">
-                <img class="img-fluid" src="assets/images/why-create-bg.png" alt="why-create-bg" />
-            </span>
-            <span class="floating-images why-yellow-dots">
-                <img class="img-fluid" src="assets/images/yellow-dots.png" alt="why-create-bg-yellow-dots" />
-            </span>
-            <span class="floating-images why-bg-right">
-                <img class="img-fluid" src="assets/images/why-create-bg-right.png" alt="why-create-bg-right" />
-            </span>
-
-            <div class="content-sec">
-                <h3 class="text-center text-uppercase">Meet the team...</h3>
-                <ul class="show-gallery">
-                    <li><img class="img-fluid meet_team_img" src="assets/images/meet-the-team-1.jpg" alt="meet_-the-team_1"></li>
-                    <li><img class="img-fluid meet_team_img" src="assets/images/meet-the-team-2.jpg" alt="meet_-the-team_2"></li>
-                    <li><img class="img-fluid meet_team_img" src="assets/images/meet-the-team-3.jpg" alt="meet_-the-team_3"></li>
-                    <li><img class="img-fluid meet_team_img" src="assets/images/meet-the-team-4.jpg" alt="meet_-the-team_4"></li>
-                </ul>
-            </div>
-        </div>
-    </div>
-    <!-- END : Meet The Team -->
-
-    <!-- START : Our Mission -->
-    <div class="section why-attend">
-        <div class="container">
-            <span class="floating-images att-pink-dots">
-                <img class="img-fluid" src="assets/images/pink-dots.png" alt="attend-pink-dots" />
-            </span>
-            <span class="floating-images att-green-line">
-                <img class="img-fluid" src="assets/images/green-line.png" alt="attend-green-line" />
-            </span>
-            <span class="floating-images att-yellow-line">
-                <img class="img-fluid" src="assets/images/yellow-line.png" alt="attend-yellow-line" />
-            </span>
-
-            <div class="img-content-sec">
-                <div class="img-bdr">
-                    <img class="img-fluid our-mission-img" src="assets/images/our-mission.jpg" alt="Our Mission" />
-                </div>  
-                <div class="content-sec">
-                    <h3>Our Mission</h3>
-                    <p>‘To provide a safe space for the entire community to seek advice, support and to understand the options ahead of their family-building journey’.</p>
-                    <p> An event designed for everyone, and not just for men. A show that educates in a safe and secure space with only the leading professionals, community members and allies. Our exclusive and impressive Modern Family Show Main Stage will deliver educational informal sessions from some of the leading experts and familiar faces, whilst our seminar rooms provide structured presentations, key notes and guides specialising in Fertility, Adoption, Fostering, Donation services, and Fertility Preservation guidance.</p>
-                    <p>The Modern Family Show has assembled a collection of social media parenting inﬂuencers (our advocates) to act as the voice for their chosen family group and wider parenting community as part of the #AskMe programme. Our advocates are all parents or parents to be, and whether that’s as a result of Fostering, Adoption, Trans-Parents, Co-parenting, Surrogacy or Sperm/Egg donation, they'll be there to answer any questions you may have with advice from their own lived experiences.</p>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- END : Our Mission -->
-
-    <!-- START : Core Values -->
-    <div class="core_values">
-        <div class="container">
-            <div class="row">
-                <h3 class="text-uppercase text-center">Core Values</h3>
-                <br><br><br>
-                <div class="col-xl-3 values_box">
-                    <div class="values_icon d-flex align-items-center justify-content-center"
-                        style="background-image: url(assets/images/trust_bg.png);">
-                        <span>
-                            <img src="assets/images/trust.png" alt="trust image" />
-                        </span>
-
+                    <h3 class="text-center text-uppercase">Meet the team...</h3>
+                    <div class="show-gallery owl-carousel owl-theme">
+                        <div class="gal-cont"><img src="assets/images/meet-the-team-1.jpg" alt="meet_-the-team_1"></div>
+                        <div class="gal-cont"><img src="assets/images/meet-the-team-2.jpg" alt="meet_-the-team_2"></div>
+                        <div class="gal-cont"><img src="assets/images/meet-the-team-3.jpg" alt="meet_-the-team_3"></div>
+                        <div class="gal-cont"><img src="assets/images/meet-the-team-4.jpg" alt="meet_-the-team_4"></div>
+                        <div class="gal-cont"><img src="assets/images/meet-the-team-1.jpg" alt="meet_-the-team_1"></div>
+                        <div class="gal-cont"><img src="assets/images/meet-the-team-2.jpg" alt="meet_-the-team_2"></div>
+                        <div class="gal-cont"><img src="assets/images/meet-the-team-3.jpg" alt="meet_-the-team_3"></div>
+                        <div class="gal-cont"><img src="assets/images/meet-the-team-4.jpg" alt="meet_-the-team_4"></div>
                     </div>
-                    <h6>TRUST</h6>
-                </div>
-                <div class="col-xl-3 values_box">
-                    <div class="values_icon d-flex align-items-center justify-content-center"
-                        style="background-image: url(assets/images/integrity_bg.png);">
-                        <span>
-                            <img src="assets/images/integrity.png" alt="integrity image" />
-                        </span>
-
-                    </div>
-                    <h6>integrity</h6>
-                </div>
-                <div class="col-xl-3 values_box">
-                    <div class="values_icon d-flex align-items-center justify-content-center"
-                        style="background-image: url(assets/images/equality_bg.png);">
-                        <span>
-                            <img src="assets/images/equality.png" alt="equality image" />
-                        </span>
-
-                    </div>
-                    <h6>equality</h6>
-                </div>
-                <div class="col-xl-3 values_box">
-                    <div class="values_icon d-flex align-items-center justify-content-center"
-                        style="background-image: url(assets/images/honesty_bg.png);">
-                        <span>
-                            <img src="assets/images/honesty.png" alt="honesty image" />
-                        </span>
-
-                    </div>
-                    <h6>honesty</h6>
                 </div>
             </div>
-        </div>
-    </div>
-    <!-- END : Core Values -->
+            <!-- END : Meet The Team -->
 
-    <!-- START : OUR ADVOCATES -->
-    <div class="section last_show">
-        <div class="container">
-            <span class="floating-images last-show-bg-left">
-                <img class="img-fluid" src="assets/images/last-show-bg.png" alt="last-show-bg-left" />
-            </span>            
-            <span class="floating-images last-show-green-dots">
-                <img class="img-fluid" src="assets/images/green-dots.png" alt="last-show-green-dots" />
-            </span>
-
-            <div class="img-content-sec reverse">
-                <div class="img-bdr">
-                    <img class="img-fluid our-adv-img" src="assets/images/our-advocates.jpg" alt="Our-Advocates" />
-                </div>  
-                <div class="content-sec">
-                    <h3>OUR ADVOCATES</h3>                    
-                    <p>The Modern Family Show has assembled with some of the UK’s leading Social Media Parenting Inﬂuencers (our advocates) to act as the voice for their chosen family group and wider parenting community. Our Advocates also ensure they are helping to promote the event on Facebook, Instagram and in their blogs to a targeted LGBTQ+ audience. Our advocates are all parents or parents to be, and whether that’s as a result of Fostering, Adoption, Trans-Parents, Co-parenting, Surrogacy or sperm/egg donation, their advice comes from their own lived experiences and so will be an incredibly helpful part of your visit.</p>
+            <!-- START : Our Mission -->
+            <div class="section why-attend">
+                <div class="img-content-sec">
+                    <div class="img-bdr">
+                        <img class="img-fluid our-mission-img" src="assets/images/our-mission.jpg" alt="Our Mission" />
+                    </div>  
+                    <div class="content-sec">
+                        <h3>Our Mission</h3>
+                        <p>‘To provide a safe space for the entire community to seek advice, support and to understand the options ahead of their family-building journey’.</p>
+                        <p> An event designed for everyone, and not just for men. A show that educates in a safe and secure space with only the leading professionals, community members and allies. Our exclusive and impressive Modern Family Show Main Stage will deliver educational informal sessions from some of the leading experts and familiar faces, whilst our seminar rooms provide structured presentations, key notes and guides specialising in Fertility, Adoption, Fostering, Donation services, and Fertility Preservation guidance.</p>
+                        <p>The Modern Family Show has assembled a collection of social media parenting inﬂuencers (our advocates) to act as the voice for their chosen family group and wider parenting community as part of the #AskMe programme. Our advocates are all parents or parents to be, and whether that’s as a result of Fostering, Adoption, Trans-Parents, Co-parenting, Surrogacy or Sperm/Egg donation, they'll be there to answer any questions you may have with advice from their own lived experiences.</p>
+                    </div>
                 </div>
             </div>
+            <!-- END : Our Mission -->
+
+            <!-- START : Core Values -->
+            <div class="core_values">
+                <div class="row">
+                    <h3 class="text-uppercase text-center">Core Values</h3>
+                    <br><br><br>
+                    <div class="col-xl-3 values_box">
+                        <div class="values_icon d-flex align-items-center justify-content-center"
+                            style="background-image: url(assets/images/trust_bg.png);">
+                            <span>
+                                <img src="assets/images/trust.png" alt="trust image" />
+                            </span>
+
+                        </div>
+                        <h6>TRUST</h6>
+                    </div>
+                    <div class="col-xl-3 values_box">
+                        <div class="values_icon d-flex align-items-center justify-content-center"
+                            style="background-image: url(assets/images/integrity_bg.png);">
+                            <span>
+                                <img src="assets/images/integrity.png" alt="integrity image" />
+                            </span>
+
+                        </div>
+                        <h6>integrity</h6>
+                    </div>
+                    <div class="col-xl-3 values_box">
+                        <div class="values_icon d-flex align-items-center justify-content-center"
+                            style="background-image: url(assets/images/equality_bg.png);">
+                            <span>
+                                <img src="assets/images/equality.png" alt="equality image" />
+                            </span>
+
+                        </div>
+                        <h6>equality</h6>
+                    </div>
+                    <div class="col-xl-3 values_box">
+                        <div class="values_icon d-flex align-items-center justify-content-center"
+                            style="background-image: url(assets/images/honesty_bg.png);">
+                            <span>
+                                <img src="assets/images/honesty.png" alt="honesty image" />
+                            </span>
+
+                        </div>
+                        <h6>honesty</h6>
+                    </div>
+                </div>
+            </div>
+            <!-- END : Core Values -->
+
+            <!-- START : OUR ADVOCATES -->
+            <div class="section last_show">
+                <div class="img-content-sec reverse">
+                    <div class="img-bdr">
+                        <img class="img-fluid our-adv-img" src="assets/images/our-advocates.jpg" alt="Our-Advocates" />
+                    </div>  
+                    <div class="content-sec">
+                        <h3>OUR ADVOCATES</h3>                    
+                        <p>The Modern Family Show has assembled with some of the UK’s leading Social Media Parenting Inﬂuencers (our advocates) to act as the voice for their chosen family group and wider parenting community. Our Advocates also ensure they are helping to promote the event on Facebook, Instagram and in their blogs to a targeted LGBTQ+ audience. Our advocates are all parents or parents to be, and whether that’s as a result of Fostering, Adoption, Trans-Parents, Co-parenting, Surrogacy or sperm/egg donation, their advice comes from their own lived experiences and so will be an incredibly helpful part of your visit.</p>
+                    </div>
+                </div>
+            </div>
+            <!-- END : OUR ADVOCATES -->
         </div>
     </div>
-    <!-- END : OUR ADVOCATES -->
 
     <!-- START : Footer -->
         <!--#include file="assets/includes/footer.inc"-->

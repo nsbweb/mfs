@@ -11,64 +11,47 @@
         <!--#include file="assets/includes/header.inc"-->
     <!-- END : Header -->
 
-    <!-- START : Contact -->
-    <div class="contact">
+    <!-- START : Banner -->
+        <!--#include file="assets/includes/static-banner.inc"-->
+    <!-- END : Banner -->
+
+    <div class="main-content">
         <div class="container">
-            <div class="row">
-                <div class="col-xl-6">
-                    <span class="who-yellow-dots">
-                        <img class="img-fluid" src="assets/images/yellow-dots.png" alt="what-bg-yellow-dots" />
-                    </span>
-                    <span class="who-bg-left">
-                        <img class="img-fluid" src="assets/images/MFS_BG.png" alt="what-is-it-bg" />
-                    </span>
+            <!-- START : All Shapes -->
+                <!--#include file="assets/includes/all-shapes.inc"-->
+            <!-- END : All Shapes -->
 
-                    <h3>CONTACT US</h3>
-                    <p>
-                        Want to find out more about attending the show?<br>
-                        Or maybe you're interested in exhibiting at the event?<br>
-                    </p>
-                    <p>
-                        Get in touch - we'd love to hear from you.
-                    </p>
+            <!-- START : Contact -->
+            <div class="contact">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <h3>CONTACT US</h3>
+                            <p>Want to find out more about attending the show?<br> Or maybe you're interested in exhibiting at the event?</p>
+                            <p>Get in touch - we'd love to hear from you.</p>
 
-                    <ul class="nav">
-                        <li class="nav-item">
-                          <a class="social-icon nav-link active" aria-current="page" href="#"><i class="fa-brands fa-facebook"></i></a>
-                        </li>
-                        <li class="nav-item">
-                          <a class="social-icon nav-link" href="#"><i class="fa-brands fa-instagram"></i></a>
-                        </li>
-                        <li class="nav-item">
-                          <a class="social-icon nav-link" href="#"><i class="fa-brands fa-twitter"></i></a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="social-icon nav-link" href="#"><i class="fa-brands fa-linkedin"></i></a>
-                        </li>
-                    </ul>
+                            <ul class="social-icon">
+                                <li><a class="social-icon nav-link active" aria-current="page" href="#"><i class="fa-brands fa-facebook"></i></a></li>
+                                <li><a class="social-icon nav-link" href="#"><i class="fa-brands fa-instagram"></i></a></li>
+                                <li><a class="social-icon nav-link" href="#"><i class="fa-brands fa-twitter"></i></a></li>
+                                <li><a class="social-icon nav-link" href="#"><i class="fa-brands fa-linkedin"></i></a></li>
+                            </ul>
+                        </div>
+
+                        <div class="col-lg-6">
+                            <form class="contact_page_form">
+                                <input type="text" class="form-control" placeholder="YOUR NAME">
+                                <input type="email" class="form-control" placeholder="YOUR EMAIL">
+                                <textarea class="form-control message_textarea" ></textarea>
+                                <input type="submit" value="Submit" class="submit_btn" />
+                            </form>
+                        </div>
+                    </div>
                 </div>
-
-                <div class="col-xl-6">
-                    <form class="contact_page_form">
-                        <input type="text" class="form-control_contact" placeholder="YOUR NAME">
-                        <br>
-                        <input type="email" class="form-control_contact" placeholder="YOUR EMAIL">
-                        <br>
-                        <textarea class="form-control_contact contact_message_textarea" ></textarea>
-                        <br>
-                        <input type="submit" value="Submit" class="Contact_Submit_btn" />
-                    </form>
-                </div>
-                <span class="who-bg-right">
-                    <img class="img-fluid" src="assets/images/MFS_BG.png" alt="MFS_BG" />
-                </span>
-                <span class="who-bg-right who-pink-line">
-                    <img class="img-fluid" src="assets/images/pink-line.png" alt="bg" />
-                </span>
             </div>
+            <!-- END : Contact -->
         </div>
     </div>
-    <!-- END : Contact -->
 
     <!-- START : Footer -->
         <!--#include file="assets/includes/footer.inc"-->

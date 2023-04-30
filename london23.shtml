@@ -14,283 +14,245 @@
         <!--#include file="assets/includes/static-banner.inc"-->
     <!-- END : Banner -->
 
-    <!-- START : MFS what is it -->
-    <div class="section what-is-it">    
+    <div class="main-content">
         <div class="container">
-            <span class="floating-images wha-yellow-dots">
-                <img class="img-fluid" src="assets/images/yellow-dots.png" alt="what-bg-yellow-dots" />
-            </span>
-            <span class="floating-images wha-bg-left">
-                <img class="img-fluid" src="assets/images/MFS_BG.png" alt="what-is-it-bg" />
-            </span>
-            <span class="floating-images wha-bg-right">
-                <img class="img-fluid" src="assets/images/MFS_BG.png" alt="MFS_BG" />
-            </span>
-            <span class="floating-images wha-pink-line">
-                <img class="img-fluid" src="assets/images/pink-line.png" alt="bg" />
-            </span>
+            <!-- START : All Shapes -->
+                <!--#include file="assets/includes/all-shapes.inc"-->
+            <!-- END : All Shapes -->
 
-            <div class="img-content-sec reverse">            
-                <div class="img-bdr">
-                    <img class="img-fluid abt-lon-23-img" src="assets/images/Abt-mfs-lon-23.jpg" alt="Abt-mfs-lon-23" />
+            <!-- START : MFS what is it -->
+            <div class="section what-is-it">
+                <div class="img-content-sec reverse">            
+                    <div class="img-bdr">
+                        <img class="img-fluid abt-lon-23-img" src="assets/images/Abt-mfs-lon-23.jpg" alt="Abt-mfs-lon-23" />
+                    </div>
+                    <div class="content-sec">
+                        <h3>ABOUT <span>MFS LONDON ‘23</span></h3>
+                        <p>There has never been a greater need for an inclusive LGBTQ+ family building event.</p>
+                        <p>Packed with life-changing educational content and delivered by an authentic team of parents, experts and special guest speakers, The Modern Family Show will be taking residency at the iconic 8 Northumberland, London.</p>
+                        <span class="text-start">Find out about;</span>
+                        <ul class="text-start">
+                            <li>Surrogacy and IVF/IUIl, Adoption</li>
+                            <li>Fostering</li>
+                            <li>Co-Parenting</li>
+                            <li>Fertility Preservation</li>
+                            <li>Solo Parenting</li>
+                            <li>Egg/Sperm Donation?</li>
+                        </ul>
+                    </div>                
                 </div>
-                <div class="content-sec">
-                    <h3>ABOUT <span>MFS LONDON ‘23</span></h3>
-                    <p>There has never been a greater need for an inclusive LGBTQ+ family building event.</p>
-                    <p>Packed with life-changing educational content and delivered by an authentic team of parents, experts and special guest speakers, The Modern Family Show will be taking residency at the iconic 8 Northumberland, London.</p>
-                    <span class="text-start">Find out about;</span>
-                    <ul class="text-start">
-                        <li>Surrogacy and IVF/IUIl, Adoption</li>
-                        <li>Fostering</li>
-                        <li>Co-Parenting</li>
-                        <li>Fertility Preservation</li>
-                        <li>Solo Parenting</li>
-                        <li>Egg/Sperm Donation?</li>
-                    </ul>
-                </div>                
             </div>
-        </div>
-    </div>
-    <!-- END : MFS what is it -->
+            <!-- END : MFS what is it -->
 
-    <!-- START : Meet Our Sponsors -->
-    <div class="section why-create">
-        <div class="container">
-            <span class="floating-images why-bg-img">
-                <img class="img-fluid" src="assets/images/why-create-bg.png" alt="why-create-bg" />
-            </span>
-            <span class="floating-images why-yellow-dots">
-                <img class="img-fluid" src="assets/images/yellow-dots.png" alt="why-create-bg-yellow-dots" />
-            </span>
-            <span class="floating-images why-bg-right">
-                <img class="img-fluid" src="assets/images/why-create-bg-right.png" alt="why-create-bg-right" />
-            </span>
-
-            <div class="img-content-sec reverse">            
-                <div class="img-bdr no-bdr">
-                    <div class="row">
-                        <div class="col-xl-6 col-6">
-                            <img class="img-fluid" src="assets/images/Agora.jpg" alt="agora image" />
-                        </div>
-                        <div class="col-xl-6 col-6">
-                            <img class="img-fluid" src="assets/images/Agora.jpg" alt="agora image" />
+            <!-- START : Meet Our Sponsors -->
+            <div class="section why-create">
+                <div class="img-content-sec reverse">            
+                    <div class="img-bdr no-bdr">
+                        <div class="row">
+                            <div class="col-xl-6 col-6">
+                                <img class="img-fluid" src="assets/images/Agora.jpg" alt="agora image" />
+                            </div>
+                            <div class="col-xl-6 col-6">
+                                <img class="img-fluid" src="assets/images/Agora.jpg" alt="agora image" />
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="content-sec">
-                    <h3>MEET OUR SPONSORS</h3>
-                    <p>We’re excited to shortly reveal our category sponsors supporting those on a journey to parenthood.</p>
-                    <p>Our sponsors care deeply about ensuring everyone gets equitable care and support, which is why they are excited to meet you. Announcing from Spring 2023 - watch this space!</p>
-                </div>                
-            </div>
-        </div>
-    </div>
-    <!-- END : Meet Our Sponsors -->
-
-    <!-- START : OUR EXHIBITORS -->
-    <div class="section why-attend">
-        <div class="container">
-            <span class="floating-images att-pink-dots">
-                <img class="img-fluid" src="assets/images/pink-dots.png" alt="attend-pink-dots" />
-            </span>
-            <span class="floating-images att-green-line">
-                <img class="img-fluid" src="assets/images/green-line.png" alt="attend-green-line" />
-            </span>
-            <span class="floating-images att-yellow-line">
-                <img class="img-fluid" src="assets/images/yellow-line.png" alt="attend-yellow-line" />
-            </span>
-
-            <div class="img-content-sec">
-                <div class="content-sec">
-                    <h3>OUR EXHIBITORS</h3>
-                    <p>We have worked hard to source those with genuine experience of supporting modern family building, especially those who have supported LGBTQ+ people.</p>
-                    <p>From Adoption to Fertility Clinics to GC (Surrogacy) Agencies, we have it all covered. Announcing from Spring 2023 – watch this space!</p>
+                    <div class="content-sec">
+                        <h3>MEET OUR SPONSORS</h3>
+                        <p>We’re excited to shortly reveal our category sponsors supporting those on a journey to parenthood.</p>
+                        <p>Our sponsors care deeply about ensuring everyone gets equitable care and support, which is why they are excited to meet you. Announcing from Spring 2023 - watch this space!</p>
+                    </div>                
                 </div>
             </div>
-            <ul class="nav advocates_list">
-                <li class="nav-item">
-                    <div class="media-icon">
-                        <a class="nav-link active" href="javascript:void(0)" data-toggle="modal"
-                            data-target="#media_01">
-                            <img class="img-fluid" src="assets/images/Exh-Amilis.png" alt="agora image" />
-                        </a>
+            <!-- END : Meet Our Sponsors -->
+
+            <!-- START : OUR EXHIBITORS -->
+            <div class="section why-attend">
+                <div class="img-content-sec">
+                    <div class="content-sec">
+                        <h3>OUR EXHIBITORS</h3>
+                        <p>We have worked hard to source those with genuine experience of supporting modern family building, especially those who have supported LGBTQ+ people.</p>
+                        <p>From Adoption to Fertility Clinics to GC (Surrogacy) Agencies, we have it all covered. Announcing from Spring 2023 – watch this space!</p>
                     </div>
-                </li>
-                <li class="nav-item">
-                    <div class="media-icon">
-                        <a class="nav-link active" aria-current="page" href="#">
-                            <img class="img-fluid" src="assets/images/Exh-BDB.png" alt="agora image" />
-                        </a>
-                    </div>
-                </li>
-                <li class="nav-item">
-                    <div class="media-icon">
-                        <a class="nav-link active" aria-current="page" href="#">
-                            <img class="img-fluid" src="assets/images/Exh-Burgess Mee.png" alt="agora image" />
-                        </a>
-                    </div>
-                </li>
-                <li class="nav-item">
-                    <div class="media-icon">
-                        <a class="nav-link active" aria-current="page" href="#">
-                            <img class="img-fluid" src="assets/images/Exh-CaliCryo.png" alt="agora image" />
-                        </a>
-                    </div>
-                </li>
-                <li class="nav-item">
-                    <div class="media-icon">
-                        <a class="nav-link active" aria-current="page" href="#">
-                            <img class="img-fluid" src="assets/images/Exh-CRGH.png" alt="agora image" />
-                        </a>
-                    </div>
-                </li>
-                <br>
-                <li class="nav-item">
-                    <div class="media-icon">
-                        <a class="nav-link active" aria-current="page" href="#">
-                            <img class="img-fluid" src="assets/images/Exh-DCN.png" alt="agora image" />
-                        </a>
-                    </div>
-                </li>
-                <li class="nav-item">
-                    <div class="media-icon">
-                        <a class="nav-link active" aria-current="page" href="#">
-                            <img class="img-fluid" src="assets/images/Exh-DonorConcierge.png" alt="agora image" />
-                        </a>
-                    </div>
-                </li>
-                <li class="nav-item">
-                    <div class="media-icon">
-                        <a class="nav-link active" aria-current="page" href="#">
-                            <img class="img-fluid" src="assets/images/Exh-ESB.png" alt="agora image" />
-                        </a>
-                    </div>
-                </li>
-                <!-- <li class="nav-item">
-                    <div class="media-icon">
-                        <a class="nav-link active" aria-current="page" href="#">
-                            <img class="img-fluid  comin-soon" src="assets/images/comin-soon.jpg" alt="agora image" />
-                        </a>
-                    </div>
-                </li> -->
-                <li class="nav-item">
-                    <div class="media-icon">
-                        <a class="nav-link active" aria-current="page" href="#">
-                            <img class="img-fluid" src="assets/images/Exh-FutureHealth.png" alt="agora image" />
-                        </a>
-                    </div>
-                </li>
-                <li class="nav-item">
-                    <div class="media-icon">
-                        <a class="nav-link active" aria-current="page" href="#">
-                            <img class="img-fluid" src="assets/images/Exh-IM.png" alt="agora image" />
-                        </a>
-                    </div>
-                </li>
-                <li class="nav-item">
-                    <div class="media-icon">
-                        <a class="nav-link active" aria-current="page" href="#">
-                            <img class="img-fluid" src="assets/images/Exh-ISC.png" alt="agora image" />
-                        </a>
-                    </div>
-                </li>
-                <li class="nav-item">
-                    <div class="media-icon">
-                        <a class="nav-link active" aria-current="page" href="#">
-                            <img class="img-fluid" src="assets/images/Exh-Laytons.png" alt="agora image" />
-                        </a>
-                    </div>
-                </li>
-                <li class="nav-item">
-                    <div class="media-icon">
-                        <a class="nav-link active" aria-current="page" href="#">
-                            <img class="img-fluid" src="assets/images/Exh-Lister.png" alt="agora image" />
-                        </a>
-                    </div>
-                </li>
-                <li class="nav-item">
-                    <div class="media-icon">
-                        <a class="nav-link active" aria-current="page" href="#">
-                            <img class="img-fluid" src="assets/images/Exh-ManFert.png" alt="agora image" />
-                        </a>
-                    </div>
-                </li>
-                <li class="nav-item">
-                    <div class="media-icon">
-                        <a class="nav-link active" aria-current="page" href="#">
-                            <img class="img-fluid" src="assets/images/Exh-Mermaids.png" alt="agora image" />
-                        </a>
-                    </div>
-                </li>
-                <li class="nav-item">
-                    <div class="media-icon">
-                        <a class="nav-link active" aria-current="page" href="#">
-                            <img class="img-fluid" src="assets/images/Exh-SJ.jpg" alt="agora image" />
-                        </a>
-                    </div>
-                </li>
-                <li class="nav-item">
-                    <div class="media-icon">
-                        <a class="nav-link active" aria-current="page" href="#">
-                            <img class="img-fluid" src="assets/images/Exh-Xytex.png" alt="agora image" />
-                        </a>
-                    </div>
-                </li>
-            </ul>
+                </div>
+                <ul class="nav advocates_list">
+                    <li class="nav-item">
+                        <div class="media-icon">
+                            <a class="nav-link active" href="javascript:void(0)" data-toggle="modal"
+                                data-target="#media_01">
+                                <img class="img-fluid" src="assets/images/Exh-Amilis.png" alt="agora image" />
+                            </a>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <div class="media-icon">
+                            <a class="nav-link active" aria-current="page" href="#">
+                                <img class="img-fluid" src="assets/images/Exh-BDB.png" alt="agora image" />
+                            </a>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <div class="media-icon">
+                            <a class="nav-link active" aria-current="page" href="#">
+                                <img class="img-fluid" src="assets/images/Exh-Burgess Mee.png" alt="agora image" />
+                            </a>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <div class="media-icon">
+                            <a class="nav-link active" aria-current="page" href="#">
+                                <img class="img-fluid" src="assets/images/Exh-CaliCryo.png" alt="agora image" />
+                            </a>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <div class="media-icon">
+                            <a class="nav-link active" aria-current="page" href="#">
+                                <img class="img-fluid" src="assets/images/Exh-CRGH.png" alt="agora image" />
+                            </a>
+                        </div>
+                    </li>
+                    <br>
+                    <li class="nav-item">
+                        <div class="media-icon">
+                            <a class="nav-link active" aria-current="page" href="#">
+                                <img class="img-fluid" src="assets/images/Exh-DCN.png" alt="agora image" />
+                            </a>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <div class="media-icon">
+                            <a class="nav-link active" aria-current="page" href="#">
+                                <img class="img-fluid" src="assets/images/Exh-DonorConcierge.png" alt="agora image" />
+                            </a>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <div class="media-icon">
+                            <a class="nav-link active" aria-current="page" href="#">
+                                <img class="img-fluid" src="assets/images/Exh-ESB.png" alt="agora image" />
+                            </a>
+                        </div>
+                    </li>
+                    <!-- <li class="nav-item">
+                        <div class="media-icon">
+                            <a class="nav-link active" aria-current="page" href="#">
+                                <img class="img-fluid  comin-soon" src="assets/images/comin-soon.jpg" alt="agora image" />
+                            </a>
+                        </div>
+                    </li> -->
+                    <li class="nav-item">
+                        <div class="media-icon">
+                            <a class="nav-link active" aria-current="page" href="#">
+                                <img class="img-fluid" src="assets/images/Exh-FutureHealth.png" alt="agora image" />
+                            </a>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <div class="media-icon">
+                            <a class="nav-link active" aria-current="page" href="#">
+                                <img class="img-fluid" src="assets/images/Exh-IM.png" alt="agora image" />
+                            </a>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <div class="media-icon">
+                            <a class="nav-link active" aria-current="page" href="#">
+                                <img class="img-fluid" src="assets/images/Exh-ISC.png" alt="agora image" />
+                            </a>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <div class="media-icon">
+                            <a class="nav-link active" aria-current="page" href="#">
+                                <img class="img-fluid" src="assets/images/Exh-Laytons.png" alt="agora image" />
+                            </a>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <div class="media-icon">
+                            <a class="nav-link active" aria-current="page" href="#">
+                                <img class="img-fluid" src="assets/images/Exh-Lister.png" alt="agora image" />
+                            </a>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <div class="media-icon">
+                            <a class="nav-link active" aria-current="page" href="#">
+                                <img class="img-fluid" src="assets/images/Exh-ManFert.png" alt="agora image" />
+                            </a>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <div class="media-icon">
+                            <a class="nav-link active" aria-current="page" href="#">
+                                <img class="img-fluid" src="assets/images/Exh-Mermaids.png" alt="agora image" />
+                            </a>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <div class="media-icon">
+                            <a class="nav-link active" aria-current="page" href="#">
+                                <img class="img-fluid" src="assets/images/Exh-SJ.jpg" alt="agora image" />
+                            </a>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <div class="media-icon">
+                            <a class="nav-link active" aria-current="page" href="#">
+                                <img class="img-fluid" src="assets/images/Exh-Xytex.png" alt="agora image" />
+                            </a>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <!-- END : OUR EXHIBITORS -->
 
             <!-- START : Seminar Programme -->
-            <div class="img-content-sec reverse">
-                <div class="img-bdr no-bdr">
-                    <div class="row">
-                        <div class="col-xl-12">
-                            <img class="img-fluid seminar-img" src="assets/images/Seminar-Programme.jpg" alt="Seminar Programme" />
+            <div class="section why-attend">
+                <div class="img-content-sec reverse">
+                    <div class="img-bdr no-bdr">
+                        <div class="row">
+                            <div class="col-xl-12">
+                                <img class="img-fluid seminar-img" src="assets/images/Seminar-Programme.jpg" alt="Seminar Programme" />
+                            </div>
                         </div>
                     </div>
+                    <div class="content-sec">
+                        <h3>SEMINAR PROGRAMME</h3>
+                        <p>We have worked with industry leading professionals and our incredible partners to bring you the best educational programme available in the industry.</p>
+                        <p>We’re working hard behind the scenes to finalise our seminar programme. Check back here later as we’ll publish the programme as soon as it’s ready and you’ll be able to book your free slots then.</p>
+                        <div class="hexa-btn pink-bg">
+                            <a href="#" class="btn btn-book">BOOK TICKETS <span>NOW</span></a>
+                        </div>  
+                    </div>
                 </div>
-                <div class="content-sec">
-                    <h3>SEMINAR PROGRAMME</h3>
-                    <p>We have worked with industry leading professionals and our incredible partners to bring you the best educational programme available in the industry.</p>
-                    <p>We’re working hard behind the scenes to finalise our seminar programme. Check back here later as we’ll publish the programme as soon as it’s ready and you’ll be able to book your free slots then.</p>
-                    <div class="hexa-btn pink-bg">
-                        <a href="#" class="btn btn-book">BOOK TICKETS <span>NOW</span></a>
+            </div>
+            <!-- START : Seminar Programme -->
+
+            <!-- START : OUR PARTNERS -->
+            <div class="section last_show">
+                <div class="img-content-sec reverse">
+                    <div class="img-bdr no-bdr">
+                        <div class="row">
+                            <div class="col-xl-6 col-6">
+                                <img class="img-fluid" src="assets/images/Agora.jpg" alt="agora image" />
+                            </div>
+                            <div class="col-xl-6 col-6">
+                                <img class="img-fluid" src="assets/images/Agora.jpg" alt="agora image" />
+                            </div>
+                        </div>
                     </div>  
-                </div>
-            </div>
-            <!-- START : Seminar Programme -->
-        </div>
-    </div>
-    <!-- END : OUR EXHIBITORS -->
-
-    <!-- START : OUR PARTNERS -->
-    <div class="section last_show">
-        <div class="container">
-            <span class="floating-images last-show-bg-left">
-                <img class="img-fluid" src="assets/images/last-show-bg.png" alt="last-show-bg-left" />
-            </span>            
-            <span class="floating-images last-show-green-dots">
-                <img class="img-fluid" src="assets/images/green-dots.png" alt="last-show-green-dots" />
-            </span>
-
-            <div class="img-content-sec reverse">
-                <div class="img-bdr no-bdr">
-                    <div class="row">
-                        <div class="col-xl-6 col-6">
-                            <img class="img-fluid" src="assets/images/Agora.jpg" alt="agora image" />
-                        </div>
-                        <div class="col-xl-6 col-6">
-                            <img class="img-fluid" src="assets/images/Agora.jpg" alt="agora image" />
-                        </div>
+                    <div class="content-sec">
+                        <h3>OUR PARTNERS</h3>                    
+                        <p>Working with leading experts within LGBTQ+ News, infertility support groups, global networking organisations promoting diversity and one of the most famous Pride celebrations on the planet.</p>
+                        <p>Partnerships are crucial to the success of our show. That’s why we’ve teamed up with a number of leading organisations to help promote our messaging and reach all corners of the LGBTQ+ community and those trying to conceive or adopt/foster.</p>
                     </div>
-                </div>  
-                <div class="content-sec">
-                    <h3>OUR PARTNERS</h3>                    
-                    <p>Working with leading experts within LGBTQ+ News, infertility support groups, global networking organisations promoting diversity and one of the most famous Pride celebrations on the planet.</p>
-                    <p>Partnerships are crucial to the success of our show. That’s why we’ve teamed up with a number of leading organisations to help promote our messaging and reach all corners of the LGBTQ+ community and those trying to conceive or adopt/foster.</p>
                 </div>
             </div>
+            <!-- END : OUR PARTNERS -->
         </div>
     </div>
-    <!-- END : OUR PARTNERS -->
 
     <!-- START : Footer -->
         <!--#include file="assets/includes/footer.inc"-->

@@ -2,7 +2,7 @@
 <div class="footer">
     <div class="container">
         <div class="row">
-            <div class="col-xl-3">
+            <div class="col-lg-3">
                 <h5 class="text-uppercase">Email</h5>
 
                 <p class="MFS_footer_link">
@@ -31,7 +31,7 @@
                 </ul>
             </div>
 
-            <div class="col-xl-3">
+            <div class="col-lg-3">
                 <h5 class="text-uppercase">Links</h5>
                 <ul class="footer_links">
                     <li><a href="index.shtml">Home</a></li>
@@ -42,24 +42,20 @@
                 </ul>
             </div>
 
-            <div class="col-xl-3">
+            <div class="col-lg-3">
                 <h5 class="text-uppercase">Past Events</h5>
                 <ul>
                     <li><a href="#">London 22</a></li>
                 </ul>
             </div>
 
-            <div class="col-xl-3">
+            <div class="col-lg-3">
                 <h5 class="text-uppercase">Contact Us</h5>
                 <form class="contact_form" id="contact_form">
-                    <br>
                     <input type="text" class="form-control" placeholder="YOUR NAME">
-                    <br>
                     <input type="email" class="form-control" placeholder="YOUR EMAIL">
-                    <br>
                     <textarea class="form-control" id="contact_message" name="contact_message"></textarea>
-                    <br>
-                    <input type="submit" value="Submit" class="Submit_btn" />
+                    <input type="submit" value="Submit" class="submit_btn" />
                 </form>
             </div>
         </div>
@@ -69,28 +65,5 @@
     
 <script src="assets/js/jquery-3.6.4.slim.min.js"></script>
 <script src="assets/js/bootstrap.bundle.min.js"></script>
-<script>
-    var activeurl = window.location;
-    $('a[href="'+activeurl+'"]').parent('li').addClass('active');
-
-    // When the user scrolls the page, execute scrollFunc
-    window.onscroll = function() {scrollFunc()};
-
-    // Get the header
-    var header = document.querySelector(".header");
-    var bodyElem = document.querySelector("body");
-
-    // Get the offset position of the navbar
-    var sticky = header.offsetTop;
-
-    // Add the sticky class to the header when you reach its scroll position. Remove "sticky" when you leave the scroll position
-    function scrollFunc() {
-    if (window.pageYOffset > sticky) {
-        header.classList.add("sticky");
-        bodyElem.classList.add("sticky");
-    } else {
-        header.classList.remove("sticky");
-        bodyElem.classList.remove("sticky");
-    }
-    }
-</script>
+<script src="assets/js/owl.carousel.min.js"></script>
+<script src="assets/js/main.js"></script>

@@ -11,22 +11,22 @@
         <!--#include file="assets/includes/header.inc"-->
     <!-- END : Header -->
 
-    <div class="blog">
+    <!-- START : Banner -->
+        <!--#include file="assets/includes/static-banner.inc"-->
+    <!-- END : Banner -->
+
+    <div class="main-content">
         <div class="container">
-            <h3>CHECK OUT OUR RECENT BLOGS</h3>
-            <br><br>
-            <div class="blog-1">
-                <div class="container">
+            <!-- START : All Shapes -->
+                <!--#include file="assets/includes/all-shapes.inc"-->
+            <!-- END : All Shapes -->
+
+            <div class="blog">
+                <h3>CHECK OUT OUR RECENT BLOGS</h3>
+                <br><br>
+                <div class="blog-1">
                     <div class="row">
                         <div class="col-xl-4">
-                            <span class="blog-yellow-dots d-none d-sm-block">
-                                <img class="img-fluid" src="assets/images/yellow-dots.png" alt="what-bg-yellow-dots" />
-                            </span>
-        
-                            <span class="blog-bg-left d-none d-sm-block">
-                                <img class="img-fluid" src="assets/images/MFS_BG.png" alt="what-is-it-bg" />
-                            </span>
-
                             <img class="img-fluid blog_img" src="assets/images/blog.jpg" alt="blog image" />
                         </div>
                         <div class="col-xl-8">
@@ -62,25 +62,12 @@
                                 </li>
                             </ul>
                         </div>
-
-                        <span class="blog-bg-right d-none d-sm-block">
-                            <img class="img-fluid" src="assets/images/MFS_BG.png" alt="MFS_BG" />
-                        </span>
-                        <span class="blog-bg-right blog-pink-line d-none d-sm-block">
-                            <img class="img-fluid" src="assets/images/pink-line.png" alt="bg" />
-                        </span>
                     </div>
                 </div>
-            </div>
 
-            <div class="blog-1">
-                <div class="container">
+                <div class="blog-1">
                     <div class="row">
                         <div class="col-xl-4">
-                            <span class="blog2-bg-left d-none d-sm-block">
-                                <img class="img-fluid" src="assets/images/why-create-bg.png" alt="why-create-bg" />
-                            </span>
-
                             <img class="img-fluid blog_img" src="assets/images/blog.jpg" alt="blog image" />
                         </div>
                         <div class="col-xl-8">
@@ -118,25 +105,12 @@
                                 </li>
                             </ul>
                         </div>
-                        <span class="blog2-yellow-dots d-none d-sm-block">
-                            <img class="img-fluid" src="assets/images/yellow-dots.png" alt="why-create-bg-yellow-dots" />
-                        </span>
                     </div>
                 </div>
-            </div>
 
-            <div class="blog-1">
-                <div class="container">
+                <div class="blog-1">
                     <div class="row">
                         <div class="col-xl-4">
-                            <span class="blog-pink-dots d-none d-sm-block">
-                                <img class="img-fluid" src="assets/images/pink-dots.png" alt="mission-pink-dots" />
-                            </span>
-        
-                            <span class="blog-green-line d-none d-sm-block">
-                                <img class="img-fluid" src="assets/images/green-line.png" alt="mission-green-line" />
-                            </span>
-
                             <img class="img-fluid blog_img" src="assets/images/blog.jpg" alt="blog image" />
                         </div>
                         <div class="col-xl-8">
@@ -144,9 +118,7 @@
                             <br>
                             <h3>Mindful Fertility Surrogacy Support Packs</h3>
                             <p><i>Ruth / December 17, 2021 / 0 Comments</i></p>
-                            <p>Reading Time: 2 minutes Our Mindful Fertility Surrogacy support Packs are here to
-                                bring<br>calm and confidence to your journey. The packs give and show you simple tools
-                                that can<br> make a massive...</p>
+                            <p>Reading Time: 2 minutes Our Mindful Fertility Surrogacy support Packs are here to bring calm and confidence to your journey. The packs give and show you simple tools that can<br> make a massive...</p>
                             <button class="read_more_btn">Read More</button>
                             <br><br>
                             <ul class="nav">
@@ -173,14 +145,11 @@
                                 </li>
                             </ul>
                         </div>
-                        <!-- <span class="blog3-bg-right d-none d-sm-block">
-                            <img class="img-fluid" src="MFS website reskin - design files (Adobe Illustrator)/26606J - MFS website reskin design_Folder/Links/why-create-bg-right.png" alt="why-create-bg-right" />
-                        </span> -->
                     </div>
                 </div>
             </div>
         </div>
-    </div>
+    </div>    
 
     <!-- START : Footer -->
         <!--#include file="assets/includes/footer.inc"-->
