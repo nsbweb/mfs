@@ -8,26 +8,14 @@
                 <p class="MFS_footer_link">
                     <a href="mailto:hello@themodernfamilyshow.com">hello@themodernfamilyshow.com</a>
                 </p>
-                <div>
-                    <button class="subscribe_now_btn">SUBSCRIBE NOW</button>
+                <div class="subscribe-btn-container">
+                    <a class="subscribe_now_btn popup-modal" href="#subscribe-modal">SUBSCRIBE NOW</a>
                 </div>
-
-                <br>
-                <br>
-
-                <ul class="nav">
-                    <li class="nav-item">
-                        <a class="social-icon-footer nav-link active" aria-current="page" href="https://www.facebook.com/TheModernFamilyShow/"><i class="fa-brands fa-facebook"></i></a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="social-icon-footer nav-link" href="https://www.instagram.com/themodernfamilyshow"><i class="fa-brands fa-instagram"></i></a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="social-icon-footer nav-link" href="https://twitter.com/TheModernFamil1"><i class="fa-brands fa-twitter"></i></a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="social-icon-footer nav-link" href="https://www.linkedin.com/company/64725406"><i class="fa-brands fa-linkedin"></i></a>
-                        </li>
+                <ul class="social-icon-list">
+                    <li><a href="https://www.facebook.com/TheModernFamilyShow/"><i class="fa-brands fa-facebook"></i></a></li>
+                    <li><a href="https://www.instagram.com/themodernfamilyshow"><i class="fa-brands fa-instagram"></i></a></li>
+                    <li><a href="https://twitter.com/TheModernFamil1"><i class="fa-brands fa-twitter"></i></a></li>
+                    <li><a href="https://www.linkedin.com/company/64725406"><i class="fa-brands fa-linkedin"></i></a></li>
                 </ul>
             </div>
 
@@ -61,9 +49,18 @@
         </div>
     </div>
 </div>
+
+ <div id="subscribe-modal" class="mfp-hide white-popup-block">
+    <h2>Modal dialog</h2>
+    <p>You won't be able to dismiss this by usual means (escape or
+        click button), but you can close it programatically based on
+        user choices or actions.</p>
+    <p><a class="popup-modal-dismiss" href="#">Dismiss</a></p>
+</div>
 <!-- END : FOOTER -->
     
 <script src="assets/js/jquery-3.6.4.slim.min.js"></script>
 <script src="assets/js/bootstrap.bundle.min.js"></script>
 <script src="assets/js/owl.carousel.min.js"></script>
+<script src="assets/js/jquery.magnific-popup.min.js"></script>
 <script src="assets/js/main.js"></script>

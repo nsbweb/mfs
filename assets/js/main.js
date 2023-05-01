@@ -46,3 +46,25 @@ $('.owl-carousel').owlCarousel({
     }
 });
 // Slider function
+
+$(function () {
+    $('.popup-modal').magnificPopup({
+        type: 'inline',
+        modal: true,
+        midClick: true,
+    });
+    $(document).on('click', '.popup-modal-dismiss', function (e) {
+        e.preventDefault();
+        $.magnificPopup.close();
+    });
+});
+
+/* Open */
+function openNav() {
+    document.getElementById("myNav").style.height = "100%";
+  }
+  
+  /* Close */
+  function closeNav() {
+    document.getElementById("myNav").style.height = "0%";
+  }
