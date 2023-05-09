@@ -29,8 +29,8 @@
                     </div>
                     <div class="content-sec">
                         <h3>WHO WE ARE?</h3>
-                        <p>The successful and ground-breaking show was originally created and launched in London by Michael and Wes Johnson-Ellis from the UK, active LGBTQ+ bloggers and campaigners for the community. They are also Dads to their children, Talulah (5) and Duke (2) born  via Gestational Surrogacy. They know only all too well how difficult itcan be navigating all the options and pathways for LGBTQ+ people, so they set out to change this. They also wanted to create an education-first event, providing a safe space for all the attendees to network and discuss the varied options available.</p>
-                        <p>The first London show took place on the 18th September 2021 with wonderful success. Michael and Wes and the wider team are all  passionate about raising awareness and driving change, and this is why they wanted to keep bring the show back every year.</p>
+                        <p>The successful and ground-breaking show was originally created and launched in London by Michael and Wes Johnson-Ellis from the UK, active LGBTQ+ content creators and campaigners for the community. They are also Dads to their children, Talulah (6) and Duke (3) born via gestational surrogacy. They know only all too well how difficult it can be navigating all the options and pathways for LGBTQ+ people, so they set out to change this. They also wanted to create an education-first event, providing a safe space for all the attendees to network and discuss the varied options available.</p>
+                        <p>The first London show took place in September 2021 with wonderful success. Michael and Wes and the wider team are all passionate about raising awareness and driving change, and this is why they wanted to keep bring the show back every year.</p>
                     </div>                
                 </div>
             </div>
@@ -41,14 +41,16 @@
                 <div class="content-sec">
                     <h3 class="text-center text-uppercase">Meet the team...</h3>
                     <div class="show-gallery owl-carousel owl-theme">
+                        <div class="gal-cont"><img src="assets/images/meet-the-team-00.png" alt="meet_-the-team_1"></div>
+                        <div class="gal-cont"><img src="assets/images/meet-the-team-01.png" alt="meet_-the-team_1"></div>
                         <div class="gal-cont"><img src="assets/images/meet-the-team-1.jpg" alt="meet_-the-team_1"></div>
                         <div class="gal-cont"><img src="assets/images/meet-the-team-2.jpg" alt="meet_-the-team_2"></div>
-                        <div class="gal-cont"><img src="assets/images/meet-the-team-3.jpg" alt="meet_-the-team_3"></div>
-                        <div class="gal-cont"><img src="assets/images/meet-the-team-4.jpg" alt="meet_-the-team_4"></div>
+                        <div class="gal-cont"><img src="assets/images/meet-the-team-00.png" alt="meet_-the-team_1"></div>
+                        <div class="gal-cont"><img src="assets/images/meet-the-team-01.png" alt="meet_-the-team_1"></div>
                         <div class="gal-cont"><img src="assets/images/meet-the-team-1.jpg" alt="meet_-the-team_1"></div>
                         <div class="gal-cont"><img src="assets/images/meet-the-team-2.jpg" alt="meet_-the-team_2"></div>
-                        <div class="gal-cont"><img src="assets/images/meet-the-team-3.jpg" alt="meet_-the-team_3"></div>
-                        <div class="gal-cont"><img src="assets/images/meet-the-team-4.jpg" alt="meet_-the-team_4"></div>
+                        <!-- <div class="gal-cont"><img src="assets/images/meet-the-team-3.jpg" alt="meet_-the-team_3"></div>
+                        <div class="gal-cont"><img src="assets/images/meet-the-team-4.jpg" alt="meet_-the-team_4"></div> -->
                     </div>
                 </div>
             </div>

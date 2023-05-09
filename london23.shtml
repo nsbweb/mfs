@@ -50,10 +50,34 @@
                     <div class="img-bdr no-bdr">
                         <div class="row">
                             <div class="col-xl-6 col-6">
-                                <img class="img-fluid" src="assets/images/Agora.jpg" alt="agora image" />
+                                <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#our_sponsor_01">
+                                    <img class="img-fluid" src="assets/images/Sponsor-Agora.png" alt="AGORA CLINIC" />
+                                </a>
                             </div>
                             <div class="col-xl-6 col-6">
-                                <img class="img-fluid" src="assets/images/Agora.jpg" alt="agora image" />
+                                <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#our_sponsor_02">
+                                    <img class="img-fluid" src="assets/images/Sponsor-Avanti.png" alt="AVANTI FOSTERING" />
+                                </a>
+                            </div>
+                            <div class="col-xl-6 col-6">
+                                <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#our_sponsor_03">
+                                    <img class="img-fluid" src="assets/images/Sponsor-Cryos.png" alt="CRYOS INTERNATIONAL SPERM & EGG BANK" />
+                                </a>
+                            </div>
+                            <div class="col-xl-6 col-6">
+                                <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#our_sponsor_04">
+                                    <img class="img-fluid" src="assets/images/Sponsor-HE-FertilyCenter.png" alt="HERTS & ESSEX FERTILITY CNETRE" />
+                                </a>
+                            </div>
+                            <div class="col-xl-6 col-6">
+                                <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#our_sponsor_05">
+                                    <img class="img-fluid" src="assets/images/Sponsor-Lane.png" alt="LANE FERTILITY" />
+                                </a>
+                            </div>
+                            <div class="col-xl-6 col-6">
+                                <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#our_sponsor_06">
+                                    <img class="img-fluid" src="assets/images/Sponsor-MDR.png" alt="MISCHCON DE REYA LLP" />
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -78,129 +102,128 @@
                 <ul class="nav advocates_list">
                     <li class="nav-item">
                         <div class="media-icon">
-                            <a class="nav-link active" href="javascript:void(0)" data-toggle="modal"
-                                data-target="#media_01">
-                                <img class="img-fluid" src="assets/images/Exh-Amilis.png" alt="agora image" />
+                            <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#our_exibitor_01">
+                                <img class="img-fluid" src="assets/images/Exh-Amilis.png" alt="AMILIS" />
                             </a>
                         </div>
                     </li>
                     <li class="nav-item">
                         <div class="media-icon">
-                            <a class="nav-link active" aria-current="page" href="#">
-                                <img class="img-fluid" src="assets/images/Exh-BDB.png" alt="agora image" />
+                            <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#our_exibitor_02">
+                                <img class="img-fluid" src="assets/images/Exh-BDB.png" alt="BORN DONOR BANK" />
                             </a>
                         </div>
                     </li>
                     <li class="nav-item">
                         <div class="media-icon">
-                            <a class="nav-link active" aria-current="page" href="#">
-                                <img class="img-fluid" src="assets/images/Exh-Burgess Mee.png" alt="agora image" />
+                            <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#our_exibitor_03">
+                                <img class="img-fluid" src="assets/images/Exh-Burgess Mee.png" alt="BURGESS MEE" />
                             </a>
                         </div>
                     </li>
                     <li class="nav-item">
                         <div class="media-icon">
-                            <a class="nav-link active" aria-current="page" href="#">
-                                <img class="img-fluid" src="assets/images/Exh-CaliCryo.png" alt="agora image" />
+                            <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#our_exibitor_04">
+                                <img class="img-fluid" src="assets/images/Exh-CaliCryo.png" alt="CALIFORNIA CRYOBANK" />
                             </a>
                         </div>
                     </li>
                     <li class="nav-item">
                         <div class="media-icon">
-                            <a class="nav-link active" aria-current="page" href="#">
-                                <img class="img-fluid" src="assets/images/Exh-CRGH.png" alt="agora image" />
+                            <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#our_exibitor_05">
+                                <img class="img-fluid" src="assets/images/Exh-CRGH.png" alt="CRGH" />
                             </a>
                         </div>
                     </li>
                     <br>
                     <li class="nav-item">
                         <div class="media-icon">
-                            <a class="nav-link active" aria-current="page" href="#">
-                                <img class="img-fluid" src="assets/images/Exh-DCN.png" alt="agora image" />
+                            <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#our_exibitor_06">
+                                <img class="img-fluid" src="assets/images/Exh-DCN.png" alt="DONOR CONCEPTION NETWORK" />
                             </a>
                         </div>
                     </li>
                     <li class="nav-item">
                         <div class="media-icon">
-                            <a class="nav-link active" aria-current="page" href="#">
-                                <img class="img-fluid" src="assets/images/Exh-DonorConcierge.png" alt="agora image" />
+                            <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#our_exibitor_07">
+                                <img class="img-fluid" src="assets/images/Exh-DonorConcierge.png" alt="DONOR CONCIERGE" />
                             </a>
                         </div>
                     </li>
                     <li class="nav-item">
                         <div class="media-icon">
-                            <a class="nav-link active" aria-current="page" href="#">
-                                <img class="img-fluid" src="assets/images/Exh-ESB.png" alt="agora image" />
-                            </a>
-                        </div>
-                    </li>
-                    <!-- <li class="nav-item">
-                        <div class="media-icon">
-                            <a class="nav-link active" aria-current="page" href="#">
-                                <img class="img-fluid  comin-soon" src="assets/images/comin-soon.jpg" alt="agora image" />
-                            </a>
-                        </div>
-                    </li> -->
-                    <li class="nav-item">
-                        <div class="media-icon">
-                            <a class="nav-link active" aria-current="page" href="#">
-                                <img class="img-fluid" src="assets/images/Exh-FutureHealth.png" alt="agora image" />
+                            <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#our_exibitor_08">
+                                <img class="img-fluid" src="assets/images/Exh-ESB.png" alt="EUROPEAN SPERM BANK" />
                             </a>
                         </div>
                     </li>
                     <li class="nav-item">
                         <div class="media-icon">
-                            <a class="nav-link active" aria-current="page" href="#">
-                                <img class="img-fluid" src="assets/images/Exh-IM.png" alt="agora image" />
+                            <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#our_exibitor_09">
+                                <img class="img-fluid  comin-soon" src="assets/images/comin-soon.jpg" alt="FAMILY INCEPTIONS" />
                             </a>
                         </div>
                     </li>
                     <li class="nav-item">
                         <div class="media-icon">
-                            <a class="nav-link active" aria-current="page" href="#">
-                                <img class="img-fluid" src="assets/images/Exh-ISC.png" alt="agora image" />
+                            <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#our_exibitor_10">
+                                <img class="img-fluid" src="assets/images/Exh-FutureHealth.png" alt="FUTURE HEALTH BIOBANK" />
                             </a>
                         </div>
                     </li>
                     <li class="nav-item">
                         <div class="media-icon">
-                            <a class="nav-link active" aria-current="page" href="#">
-                                <img class="img-fluid" src="assets/images/Exh-Laytons.png" alt="agora image" />
+                            <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#our_exibitor_11">
+                                <img class="img-fluid" src="assets/images/Exh-IM.png" alt="INITITUT MARQUES" />
                             </a>
                         </div>
                     </li>
                     <li class="nav-item">
                         <div class="media-icon">
-                            <a class="nav-link active" aria-current="page" href="#">
-                                <img class="img-fluid" src="assets/images/Exh-Lister.png" alt="agora image" />
+                            <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#our_exibitor_12">
+                                <img class="img-fluid" src="assets/images/Exh-ISC.png" alt="INTERNATIONAL SURROGACY CENTER" />
                             </a>
                         </div>
                     </li>
                     <li class="nav-item">
                         <div class="media-icon">
-                            <a class="nav-link active" aria-current="page" href="#">
-                                <img class="img-fluid" src="assets/images/Exh-ManFert.png" alt="agora image" />
+                            <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#our_exibitor_13">
+                                <img class="img-fluid" src="assets/images/Exh-Laytons.png" alt="LAYTONS ETL" />
                             </a>
                         </div>
                     </li>
                     <li class="nav-item">
                         <div class="media-icon">
-                            <a class="nav-link active" aria-current="page" href="#">
-                                <img class="img-fluid" src="assets/images/Exh-Mermaids.png" alt="agora image" />
+                            <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#our_exibitor_14">
+                                <img class="img-fluid" src="assets/images/Exh-Lister.png" alt="LISTER FERTILITY CLINIC" />
                             </a>
                         </div>
                     </li>
                     <li class="nav-item">
                         <div class="media-icon">
-                            <a class="nav-link active" aria-current="page" href="#">
-                                <img class="img-fluid" src="assets/images/Exh-SJ.jpg" alt="agora image" />
+                            <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#our_exibitor_15">
+                                <img class="img-fluid" src="assets/images/Exh-ManFert.png" alt="MANCHESTER FERTILITY" />
                             </a>
                         </div>
                     </li>
                     <li class="nav-item">
                         <div class="media-icon">
-                            <a class="nav-link active" aria-current="page" href="#">
-                                <img class="img-fluid" src="assets/images/Exh-Xytex.png" alt="agora image" />
+                            <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#our_exibitor_16">
+                                <img class="img-fluid" src="assets/images/Exh-Mermaids.png" alt="MERMAIDS" />
+                            </a>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <div class="media-icon">
+                            <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#our_exibitor_17">
+                                <img class="img-fluid" src="assets/images/Exh-SJ.jpg" alt="MY SURROGACY JOURNEY" />
+                            </a>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <div class="media-icon">
+                            <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#our_exibitor_18">
+                                <img class="img-fluid" src="assets/images/Exh-Xytex.png" alt="XYTEX" />
                             </a>
                         </div>
                     </li>
@@ -253,6 +276,10 @@
             <!-- END : OUR PARTNERS -->
         </div>
     </div>
+
+    <!-- START : All Popups -->
+        <!--#include file="assets/includes/all-popups.inc"-->
+    <!-- END : All Popups -->
 
     <!-- START : Footer -->
         <!--#include file="assets/includes/footer.inc"-->

@@ -50,7 +50,7 @@
     </div>
 </div>
 
- <div id="subscribe-modal" class="mfp-hide white-popup-block">
+<div id="subscribe-modal" class="mfp-hide white-popup-block">
     <h2>Modal dialog</h2>
     <p>You won't be able to dismiss this by usual means (escape or
         click button), but you can close it programatically based on

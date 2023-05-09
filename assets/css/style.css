@@ -12,9 +12,6 @@ h3 { font-size:2.5rem; line-height:1; color: #333333;}
 html { font-size: 1rem; }
 body { font-family:'Montserrat', sans-serif; font-size: 100%;}
 .container { position:relative;}
-.mfp-wrap {
-    position: fixed !important;
-}
 
 /* Common CSS */
 .main-content { overflow: hidden; position: relative; padding-bottom: 120px;}
@@ -104,7 +101,7 @@ body.sticky .header.sticky { padding: 20px 0; }
 /* Image Contact Section */
 .img-content-sec { display:flex; justify-content:space-between; align-items:center; gap:0 80px;}
 .img-content-sec .img-sec,
-.img-content-sec .content-sec { min-width:50%; max-width:50%; background: #fff;}
+.img-content-sec .content-sec { min-width:50%; max-width:50%; background: #fafafa;}
 .img-content-sec .content-sec h3 { font-size:2.5rem; line-height:1; margin-bottom:20px; color: #333333;}
 .img-content-sec .content-sec h3 > span { display:block; }
 .img-content-sec .content-sec p { margin:0; }
@@ -236,20 +233,13 @@ body.sticky .header.sticky { padding: 20px 0; }
 .exhibitors-green-line { position:absolute; width:60px; left:200px; margin-top:250px;}
 .exhibitors-bg-right { position:absolute; width:70px; right:20px; margin-top:280px;}
 .media-icon{ display:flex; align-items:center; justify-content:center; height:278px; width:100%; position:relative;}
-.modal { padding-right:0 !important;}
-.modal-content{ background:#FFFAF1;border-radius:10px;flex-direction:inherit;}
-.modal-dialog{ max-width:92%; width:1022px; margin:0 auto;}
-.modal-content{ padding:40px; padding-right:65px;}
-.model-left{ width:340px; max-width:340px; height:326px; background:#fff; border:1px solid #EBD1A5;}
-.model-left img { max-width:80%; max-height:80%;}
-.model-right{ max-width:calc(100% - 340px); width:calc(100% - 340px); padding-left:60px;}
-.model-right p{ padding:10px 0;} 
+
 
 .mediaPop .model-left {background:#fff;}
-.advocates_list { padding:0 0 100px; overflow:hidden;}
-.advocates_list li { padding:15px; height:100%;}
+.advocates_list { padding:25px 0 100px; margin: -15px; overflow:hidden;}
+.advocates_list li { padding:15px; height:100%; max-width: 25%; min-width: 25%;}
 .advocates_list li a{ display:block; border:1px solid #EBD1A5; height:100%; width:100%; font-size:0;}
-.advocates_list li a img { height:100%; width:100%; object-fit:cover;}
+.advocates_list li a img { height:100%; width:100%; object-fit:cover; }
 .seminar{ /* margin-top:150px; */ margin-bottom:130px;}
 .seminar-yellow-line { position:absolute; width:80px; right:100px;}
 .our-partner{ margin-top:150px; margin-bottom:110px;}
@@ -291,3 +281,46 @@ body.sticky .header.sticky { padding: 20px 0; }
 .social-icon-list { display: flex; list-style: none;}
 .social-icon-list li { display: inline-block; padding: 0 10px; margin: 0;}
 /* CONTACT HTML */
+
+.modal { padding-right:0 !important;}
+.modal-content{ background:#fafafa;border-radius:10px;flex-direction:inherit;}
+.modal-dialog{ max-width:92%; width:1022px; margin:0 auto;}
+.modal-content{ padding: 40px;padding-right: 65px; display: flex;}
+.model-left {width: 340px;max-width: 340px;height: 326px;background: #fff;border: 1px solid #EBD1A5;}
+.model-left img {max-width: 80%;max-height: 80%;}
+.model-right {max-width: calc(100% - 340px);width: calc(100% - 340px);padding-left: 60px;}
+.model-right h6 { font-size: 2rem;}
+.model-right p {padding: 10px 0; font-size: 1.1rem;}
+.white-popup-block.xl { max-width: 80%; }
+.exibitor_popup.white-popup-block { background: none; max-width:90%; width:1022px; padding: 0; }
+.exibitor_popup .modal-dialog { max-width: none; }
+.mfp-close-btn-in .mfp-close { right: 10px; top: 10px; font-size: 40px;}
+.mfp-wrap {
+    top: 0 !important;
+    left: 0 !important;
+    position: fixed !important;
+}
+
+.mfp-zoom-in .mfp-with-anim {
+    opacity: 0;
+    transition: all 0.2s ease-in-out;
+    transform: scale(0.8);
+}
+.mfp-zoom-in.mfp-bg {
+    opacity: 0;
+    transition: all 0.3s ease-out;
+}
+.mfp-zoom-in.mfp-ready .mfp-with-anim {
+    opacity: 1;
+    transform: scale(1);
+}
+.mfp-zoom-in.mfp-ready.mfp-bg {
+    opacity: 0.8;
+}
+.mfp-zoom-in.mfp-removing .mfp-with-anim {
+    transform: scale(0.8);
+    opacity: 0;
+}
+.mfp-zoom-in.mfp-removing.mfp-bg {
+    opacity: 0;
+}

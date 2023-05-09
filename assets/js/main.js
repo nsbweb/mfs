@@ -50,8 +50,20 @@ $('.owl-carousel').owlCarousel({
 $(function () {
     $('.popup-modal').magnificPopup({
         type: 'inline',
-        modal: true,
         midClick: true,
+        removalDelay: 500, //delay removal by X to allow out-animation
+        mainClass: 'mfp-zoom-in',
+        callbacks: {
+            beforeOpen: function() {
+                this.st.mainClass = this.st.el.attr('data-effect');
+            },
+            beforeClose: function() {
+                this.content.addClass('mfp-with-fade');
+            }, 
+            close: function() {
+                this.content.removeClass('mfp-with-fade'); 
+            }
+        },
     });
     $(document).on('click', '.popup-modal-dismiss', function (e) {
         e.preventDefault();
