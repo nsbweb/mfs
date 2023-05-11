@@ -31,10 +31,10 @@
             </div>
 
             <div class="col-lg-3">
-                <h5 class="text-uppercase">Past Events</h5>
+                <!--<h5 class="text-uppercase">Past Events</h5>
                 <ul>
                     <li><a href="#">London 22</a></li>
-                </ul>
+                </ul>-->
             </div>
 
             <div class="col-lg-3">

@@ -16,15 +16,10 @@ html { font-size: 14px; }
 @media screen and (max-width:1439px){
 html { font-size: 13px; }
 .subscribe_now_btn {  }
-}
-@media screen and (max-width:1099px){
-.banner-overlay-green-lt:before { border-left-width: 40px;}
-.header {padding:10px 0; }
-.header .col-lg-3 { display: flex; justify-content: space-between; align-items: center;}
-.header .col-lg-3 .logo { max-width: 150px; }
-.banner .hexa-btn { right: 8%; top: 2%;z-index: 3; width: 142px; height: 134px;}
-.banner .hexa-btn a { font-size: 2.3rem;  width: 142px; height: 134px;}
-.banner-overlay-white-bt:before { border-right-width: 990px;}
+.media-icon{ height:180px; }
+.sticky .logo { width: 110px; }
+.sticky .menu { margin-top: 0; }
+.header.sticky .container > .row { align-items: center;}
 }
 @media screen and (max-width:1365px){
 html { font-size: 12px; }
@@ -36,6 +31,15 @@ html { font-size: 12px; }
 .show-gallery .owl-nav > button > span {border-top: 15px solid transparent; border-bottom: 15px solid transparent; border-left: 25px solid #cc3399; }
 .show-gallery .owl-nav > button.owl-prev > span { border-right: 25px solid #cc3399; border-left: 25px solid transparent;}
 .show-gallery .gal-cont > img { max-height: 265px; min-height: 265px;}
+}
+@media screen and (max-width:1099px){
+.banner-overlay-green-lt:before { border-left-width: 40px;}
+.header {padding:10px 0; }
+.header .col-lg-3 { display: flex; justify-content: space-between; align-items: center;}
+.header .col-lg-3 .logo { max-width: 150px; }
+.banner .hexa-btn { right: 8%; top: 2%;z-index: 3; width: 142px; height: 134px;}
+.banner .hexa-btn a { font-size: 2.3rem;  width: 142px; height: 134px;}
+.banner-overlay-white-bt:before { border-right-width: 990px;}
 }
 @media screen and (max-width:1023px){
     html { font-size: 12px; }

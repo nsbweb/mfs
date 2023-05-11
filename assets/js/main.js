@@ -28,7 +28,7 @@ function scrollFunc() {
 // When the user scrolls the page, execute scrollFunc
 
 // Slider function
-$('.owl-carousel').owlCarousel({
+$('.show-gallery').owlCarousel({
     loop:false,
     margin:0,
     nav:true,
@@ -45,6 +45,25 @@ $('.owl-carousel').owlCarousel({
         }
     }
 });
+
+$('.testimonial-slider').owlCarousel({
+    loop:false,
+    margin:0,
+    nav:true,
+    dots:true,
+    responsive:{
+        0:{
+            items:1
+        },
+        600:{
+            items:1
+        },
+        1000:{
+            items:1
+        }
+    }
+});
+
 // Slider function
 
 $(function () {

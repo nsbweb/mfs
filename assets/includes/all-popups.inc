@@ -335,3 +335,223 @@
     </div>
 </div>
 <!-- Sponsors -->
+
+<!-- Partner -->
+<div id="partner_01" class="mfp-hide mfp-with-anim white-popup-block xl exibitor_popup">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content align-items-center">
+            <div class="model-left d-flex align-items-center justify-content-center">
+                <img src="assets/images/partners/IVF-Babble-partner.jpg" alt="IVF Babble">
+            </div>
+            <div class="model-right">
+                <h6>IVF Babble</h6>
+                <p>Bio coming soon</p>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="partner_02" class="mfp-hide mfp-with-anim white-popup-block xl exibitor_popup">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content align-items-center">
+            <div class="model-left d-flex align-items-center justify-content-center">
+                <img src="assets/images/partners/LGBT-Mummies-partner.jpg" alt="LGBT Mummies">
+            </div>
+            <div class="model-right">
+                <h6>LGBT Mummies</h6>
+                <p>Laura-Rose &amp; Stacey are a married couple with over a decade of personal experience of IUI &amp; IVF fertility treatment &amp; have three miracle children. </p>
+                <p>They are Founders of the global organization LGBT Mummies, supporting LGBT+ women &amp; people on the path to parenthood through their website, socials, support groups, events &amp; providing a global community to “educate, support, advocate” &amp; share peoples journeys. Alongside this they passionately campaign for LGBT+ Family Equality, &amp; provide training, consultancy &amp; speaking to organizations in LGBT+ Inclusion &amp; Family Creation through their educational arm PROUD FOUNDATIONS.</p>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="partner_03" class="mfp-hide mfp-with-anim white-popup-block xl exibitor_popup">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content align-items-center">
+            <div class="model-left d-flex align-items-center justify-content-center">
+                <img src="assets/images/partners/Mermaids-partner.jpg" alt="Mermaids">
+            </div>
+            <div class="model-right">
+                <h6>Mermaids</h6>
+                <p>Mermaids is a UK-wide charity working to support transgender, non-binary and genderdiverse children, young people, their families and the professionals who support them. Their goal is to create a world where gender diverse children and young people can be themselves and thrive. The charity’s services include a helpline, web chat and online forums for parents and young people, as well as face to face meet-ups for peer support.</p>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="partner_04" class="mfp-hide mfp-with-anim white-popup-block xl exibitor_popup">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content align-items-center">
+            <div class="model-left d-flex align-items-center justify-content-center">
+                <img src="assets/images/partners/My-G-Work-partner.jpg" alt="My G Work">
+            </div>
+            <div class="model-right">
+                <h6>My G Work</h6>
+                <p>Founded by twin brothers Adrien and Pierre Gaubert eight years ago, <a herf="#">myGwork</a> is the business community for LGBTQ+ professionals, graduates, inclusive employers and anyone who believes in workplace equality. The award-winning company aims to empower the LGBTQ+ community by offering individual members a safe space where they can connect with inclusive employers and find jobs and mentors. myGwork also organises free events, such as its annual virtual five-day conference WorkPride and career fair #WorkFair to help LGBTQ+ professionals connect with inclusive employers and other LGBTQ+professionals/allies. Additionally, myGwork helps organisations to promote LGBTQ+ inclusion through training, e-learning and workshops.</p>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="partner_05" class="mfp-hide mfp-with-anim white-popup-block xl exibitor_popup">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content align-items-center">
+            <div class="model-left d-flex align-items-center justify-content-center">
+                <img src="assets/images/partners/Pride-Angel-partner.jpg" alt="Pride Angels">
+            </div>
+            <div class="model-right">
+                <h6>Pride Angels</h6>
+                <p>Bio coming soon</p>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="partner_06" class="mfp-hide mfp-with-anim white-popup-block xl exibitor_popup">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content align-items-center">
+            <div class="model-left d-flex align-items-center justify-content-center">
+                <img src="assets/images/partners/IVF-Network-partner.jpg" alt="The IVF Network">
+            </div>
+            <div class="model-right">
+                <h6>The IVF Network</h6>
+                <p>Bio coming soon</p>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Partner -->
+
+<!-- Advocate -->
+<div id="advocate_01" class="mfp-hide mfp-with-anim white-popup-block xl exibitor_popup">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content align-items-center">
+            <div class="model-left d-flex align-items-center justify-content-center">
+                <img src="assets/images/advocates/Wills-web.jpg" alt="Alex Wills">
+            </div>
+            <div class="model-right">
+                <h6>Alex Wills <br/>INTERNATIONAL SURROGACY</h6>
+                <p>Alex and Graham are parents to two girls via International Surrogacy.</p>
+                <p>Charlotte, aged 10 was born in Delhi, India and Bethany 9 was born in Bangkok Thailand.</p>
+                <p>Alex Co-runs a social enterprise: LGBTQ+ Families - @lgbtqfamiliesuk. Within this group he creates safe and open space for families to come together create friends for both the parents but the children also. Most recently the group represented LGBTQ+ Families by marching in London Pride.</p>
+                <p>Alex is a teacher and runs sessions that support schools in delivering their LGBTQ inclusive education programs.</p>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="advocate_02" class="mfp-hide mfp-with-anim white-popup-block xl exibitor_popup">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content align-items-center">
+            <div class="model-left d-flex align-items-center justify-content-center">
+                <img src="assets/images/advocates/Andi-web.jpg" alt="Andi">
+            </div>
+            <div class="model-right">
+                <h6>Andi <br/>
+Dadda_N_Daddy <br/>
+ADOPTION</h6>
+                <p>Andi and his husband Darren are adoptive parents to two children aged 5 and 2.  The couple adopted their children in 2018 and 2021 by the foster to adopt route.</p>
+                <p>Andi has a background of working in the local authority and education but is now a full-time carer and adoption advocate.</p>
+                <p>Since becoming an Adoption Advocate, Andi has taken part in a number of projects in the adoption arena including speaking at prospective adopter events and marketing campaigns and has featured on the LGBT Network Storytime in America.  Between 2019 - 2021, Andi was a Trustee for the charity New Family Social.</p>
+                <p>Andi has also had input into the parliamentary research for the &#39;1001 Critical Days programme&#39; and the &#39;Early Years Healthy Development&#39; review led by Andrea Leadsom MP.   He is currently working with NCT on their review of working with LGBT+ families.</p>
+                <p>Andi runs the Dadda_N_Daddy Instagram page which was shortlisted for a 2022 UK Fatherhood Award.</p>
+                <p></p>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="advocate_03" class="mfp-hide mfp-with-anim white-popup-block xl exibitor_popup">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content align-items-center">
+            <div class="model-left d-flex align-items-center justify-content-center">
+                <img src=""assets/images/advocates/Stokoe-web.jpg" alt="Jacob Stokoe">
+            </div>
+            <div class="model-right">
+                <h6>Jacob Stokoe <br/>TRANSPARENTING</h6>
+                <p>Jacob Stokoe is a writer, trainer, activist and parent who has been talking publicly and providing training on trans issues since 2013.</p>
+                <p>Since giving birth to his children, he has worked with a focus on both supporting parents, schools and trans youth as well as providing training to midwives and birth workers on working with people of all genders. His work is published in newspapers, journals and books and in 2022 he founded Transparent Training Ltd with the aim to make gender inclusion clear and accessible for everyone.</p>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="advocate_04" class="mfp-hide mfp-with-anim white-popup-block xl exibitor_popup">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content align-items-center">
+            <div class="model-left d-flex align-items-center justify-content-center">
+                <img src="assets/images/advocates/LGBT-Mummies-web.jpg" alt="Laura - Rose Stacey">
+            </div>
+            <div class="model-right">
+                <h6>Laura- Rose &amp; Stacey </br>
+LGBT Mummies </br>
+IUI/IVF</h6>
+                <p>Website: <a href="www.LgbtMummies.com">www.LgbtMummies.com</a></p>
+                <p>Laura-Rose &amp; Stacey are a married couple with over a decade of personal experience of IUI &amp; IVF fertility treatment &amp; have three miracle children.</p>
+                <p>They are Founders of the global organization LGBT Mummies, supporting LGBT+ women &amp; people on the path to parenthood through their website, socials, support groups, events &amp; providing a global community to “educate, support, advocate” &amp; share peoples journeys. Alongside this they passionately campaign for LGBT+ Family Equality, &amp; provide training, consultancy &amp; speaking to organizations in LGBT+ Inclusion &amp; Family Creation through their educational arm PROUD FOUNDATIONS.</p>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="advocate_05" class="mfp-hide mfp-with-anim white-popup-block xl exibitor_popup">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content align-items-center">
+            <div class="model-left d-flex align-items-center justify-content-center">
+                <img src="assets/images/advocates/Lucy-Amy-web.jpg" alt="Lucy and Amy">
+            </div>
+            <div class="model-right">
+                <h6>Lucy and Amy <br/>
+Our Big Gay Journey <br/>
+@ourbiggayjourney <br/>
+TTC IVF/IUI</h6>
+                <p>We are Lucy and Amy! Our story started with medicated IUI’s which resulted in negative pregnancy tests. After 3 unsuccessful rounds we moved onto IVF (ICSI). Surgeries, delays, cancelled cycles, many tears, heartbreak and three miscarriages later - a frozen embryo transfer gave us our rainbow baby, Nathaniel. That little rainbow baby is now a 2-year-old and as cliche as it sounds, he really was worth the wait.</p>
+                <p>We were very lucky to have two embryos still frozen after Nathaniel’s cycle and we recently welcomed our beautiful daughter Tahlia into our family.</p>
+                <p>We have shared our experience of trying to conceive as a same sex couple on our Instagram, Our Big Gay Journey - from how we chose our sperm donor to our life now, with 2 little ones. The ultimate goal of our account is to be a visible two Mum family; to normalise same sex families and help to make positive changes for the community.</p>
+                <p>Sadly, we can&#39;t make it to the show this year, but you can follow us on our Instagram @ourbiggayjourney.</p>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="advocate_06" class="mfp-hide mfp-with-anim white-popup-block xl exibitor_popup">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content align-items-center">
+            <div class="model-left d-flex align-items-center justify-content-center">
+                <img src="assets/images/advocates/Marley-web.jpg" alt="Marley Conte">
+            </div>
+            <div class="model-right">
+                <h6>Marley Conte <br/>
+@thenonbinaryparent <br/>
+NON BINARY PARENT</h6>
+                <p>Marley (They/Them) is a speaker, freelance writer, consultant, parent of one and a proud member of the LGBTQ+ community with a passion for Diversity, Equity, Justice and Inclusion and Trans rights.</p>
+                <p>Marley is British Italian and is based in London, UK. They are also the creator behind the @thenonbinaryparent where they share their journey, stories and resources as a trans/non-binary parent of one.</p>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="advocate_07" class="mfp-hide mfp-with-anim white-popup-block xl exibitor_popup">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content align-items-center">
+            <div class="model-left d-flex align-items-center justify-content-center">
+                <img src="assets/images/advocates/Mike-Wes-web.jpg" alt="Mike and Wes Johnson-Ellis">
+            </div>
+            <div class="model-right">
+                <h6>Mike and Wes Johnson-Ellis <br/>
+Two Dads UK <br/>
+UK SURROGACY</h6>
+                <p>Mike and Wes are the co-founders of My Surrogacy Journey®, TwoDadsUK® and The Modern Family Show and are Dads to their two children born via UK independent Surrogacy. Talulah was born in 2016, and Duke was born in 2019.</p>
+                <p>They built their family through friendship and developed a solid relationship with their gestational surrogate, Caroline and her family. When it came to finding an egg donor Michael and Wes also had additional help from two incredible women. One was anonymous via their clinic, and the other a friend, Francesca.</p>
+                <p>Michael and Wes are also no stranger to campaigning for change, in relation to the Surrogacy Law Reform in the UK, Government policy related to surrogates and intended parents and also educating healthcare professionalism relation to UK Surrogacy.</p>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="advocate_08" class="mfp-hide mfp-with-anim white-popup-block xl exibitor_popup">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content align-items-center">
+            <div class="model-left d-flex align-items-center justify-content-center">
+                <img src="assets/images/advocates/Atwal-Brice-web.jpg" alt="Paul and Michael Atwal-Brice">
+            </div>
+            <div class="model-right">
+                <h6>Paul &amp; Michael Atwal-Brice <br/>
+The Atwal-Brice Family <br/>
+FOSTERING</h6>
+                <p>Michael and Paul are multi award winning Parents.  In 2021 Michael and Paul were awarded the Fostering Network’s most prestigious award, the President’s Award, for almost two decades of commitment to the social care sector.</p>                <p>Dads to two sets of identical twins, Michael and Paul work closely with Adoption UK, the Fostering Network and many more.  They have a plethora of experience in the social care sector and are well respected fathers and advocates for many charities including Caudwell Children’s Charity and Action for Kids (AFK) and Working with Disabilities.</p>
+                <p>This year the boy’s picked up another prestigious award in London at the annual Fatherhood Awards and were presented with n honorary award for almost two decades of charitable works and other works around fatherhood and social care, fostering dozens of children along the way as well as helping promote fostering and adoption especially to the LGBTQ community and people from minority backgrounds.</p>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Advocate -->
