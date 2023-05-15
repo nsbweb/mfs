@@ -39,23 +39,40 @@
 
             <div class="col-lg-3">
                 <h5 class="text-uppercase">Contact Us</h5>
-                <form class="contact_form" id="contact_form">
+                <script charset="utf-8" type="text/javascript" src="//js-eu1.hsforms.net/forms/embed/v2.js"></script>
+                <script>
+                hbspt.forms.create({
+                    region: "eu1",
+                    portalId: "25374820",
+                    formId: "98fcfe80-a497-42e9-a83f-07f373fd307b"
+                });
+                </script>
+
+
+                <!--<form class="contact_form" id="contact_form">
                     <input type="text" class="form-control" placeholder="YOUR NAME">
                     <input type="email" class="form-control" placeholder="YOUR EMAIL">
                     <textarea class="form-control" id="contact_message" name="contact_message"></textarea>
                     <input type="submit" value="Submit" class="submit_btn" />
-                </form>
+                </form> -->
             </div>
         </div>
     </div>
 </div>
 
-<div id="subscribe-modal" class="mfp-hide white-popup-block">
-    <h2>Modal dialog</h2>
-    <p>You won't be able to dismiss this by usual means (escape or
-        click button), but you can close it programatically based on
-        user choices or actions.</p>
-    <p><a class="popup-modal-dismiss" href="#">Dismiss</a></p>
+<div id="subscribe-modal" class="mfp-hide white-popup-block popup-wrap xs">
+    <div class="image-content"><img src="assets/images/subscribe-form-image.jpg" alt="Subscribe Form" /></div>
+    <div class="popIn">
+        <h2>Register your interest and be a part of it!</h2>
+        <script charset="utf-8" type="text/javascript" src="//js-eu1.hsforms.net/forms/embed/v2.js"></script>
+        <script>
+        hbspt.forms.create({
+            region: "eu1",
+            portalId: "25374820",
+            formId: "10d3902e-5b6f-4a22-8be5-dad3676aa93b"
+        });
+        </script>
+    </div>
 </div>
 <!-- END : FOOTER -->
     
