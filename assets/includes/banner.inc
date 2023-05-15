@@ -12,7 +12,7 @@
                 </div>
             </div>
             <div class="hexa-btn">
-                <a href="#" class="btn btn-book">BOOK TICKETS <span>NOW</span></a>
+                <a href="https://www.eventbrite.co.uk/e/444620099687" target="_blank" class="btn btn-book">BOOK TICKETS <span>NOW</span></a>
             </div>  
             <div class="banner-image">
                 <img src="assets/images/banner-peoples-group.png" alt=""/>
