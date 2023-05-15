@@ -39,7 +39,7 @@ body { font-family:'Montserrat', sans-serif; font-size: 100%;}
 .floating-images { position:absolute; top: 0; height: 100%; display: flex; justify-content: center; align-items: center; z-index: -1;}
 
 .hexa-btn { position: relative; }
-.hexa-btn > a { font-family:'Agenda'; font-weight:900; font-size: 2.8rem; background: url(../images/book-btn-bg.png) no-repeat left top; background-size: 100% 100%; width: 222px; height: 184px; display: flex; flex-direction: column; align-items: center; justify-content: center; line-height: 0.8; text-decoration: none;}
+.hexa-btn > a { font-family:'Agenda','Montserrat', sans-serif; font-weight:900; font-size: 2.8rem; background: url(../images/book-btn-bg.png) no-repeat left top; background-size: 100% 100%; width: 222px; height: 184px; display: flex; flex-direction: column; align-items: center; justify-content: center; line-height: 0.8; text-decoration: none;}
 .hexa-btn > a > span { position: relative; color: #cc3399; }
 .hexa-btn > a:hover > span { color: #00ff99; }
 .hexa-btn > a > span:before { content: ''; position: absolute; left: calc(50% - calc(120%/2)); bottom: -6px; width: 120%; height: 22px; background: #fff; z-index: -1;}
