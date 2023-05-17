@@ -30,14 +30,15 @@
                         <h3>ABOUT <span>MFS LONDON ‘23</span></h3>
                         <p>There has never been a greater need for an inclusive LGBTQ+ family building event.</p>
                         <p>Packed with life-changing educational content and delivered by an authentic team of parents, experts and special guest speakers, The Modern Family Show will be taking residency at the iconic 8 Northumberland, London.</p>
-                        <span class="text-start">Find out about;</span>
-                        <ul class="text-start">
+                        <br/>
+                        <span class="text-start">Find out about:</span>
+                        <ul class="text-start abt-list">
                             <li>Surrogacy and IVF/IUIl, Adoption</li>
                             <li>Fostering</li>
                             <li>Co-Parenting</li>
                             <li>Fertility Preservation</li>
                             <li>Solo Parenting</li>
-                            <li>Egg/Sperm Donation?</li>
+                            <li>Egg/Sperm Donation</li>
                         </ul>
                     </div>                
                 </div>
@@ -84,7 +85,7 @@
                     <li class="nav-item">
                         <div class="media-icon">
                             <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#our_sponsor_05">
-                                <img class="img-fluid" src="assets/images/Sponsor-Lane.png" alt="LANE FERTILITY" />
+                                <img class="img-fluid" src="assets/images/Sponsor-Lane.png" alt="LANE FERTILITY INSTITUTE" />
                             </a>
                         </div>
                     </li>
@@ -104,7 +105,7 @@
                 <div class="img-content-sec justify-content-center text-center">
                     <div class="content-sec">
                         <h3>OUR EXHIBITORS</h3>
-                        <p>We have worked hard to source those with genuine experience of supporting modern family building, especially those who have supported LGBTQ+ people. From Adoption to Fertility Clinics to GC (Surrogacy) Agencies, we have it all covered. Announcing from Spring 2023 – watch this space!</p>
+                        <p>We have worked hard to source those with genuine experience of supporting modern family building, especially those who have supported LGBTQ+ people. From Adoption to Fertility Clinics to GC (Surrogacy) Agencies, we have it all covered.</p>
                     </div>
                 </div>
                 <ul class="nav advocates_list">
@@ -254,7 +255,7 @@
                         <p>We have worked with industry leading professionals and our incredible partners to bring you the best educational programme available in the industry.</p>
                         <p>We’re working hard behind the scenes to finalise our seminar programme. Check back here later as we’ll publish the programme as soon as it’s ready and you’ll be able to book your free slots then.</p>
                         <div class="hexa-btn pink-bg">
-                            <a href="#" class="btn btn-book">BOOK TICKETS <span>NOW</span></a>
+                            <a href="https://www.eventbrite.co.uk/e/444620099687" class="btn btn-book">BOOK TICKETS <span>NOW</span></a>
                         </div>  
                     </div>
                 </div>

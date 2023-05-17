@@ -30,7 +30,7 @@
     <div class="modal-dialog modal-dialog-centered" role="document">
         <div class="modal-content align-items-center">
         <div class="model-left d-flex align-items-center justify-content-center">
-            <img src="assets/images/assets/images/Exh-Burgess Mee.png" alt="BURGESS MEE">
+            <img src="assets/images/Exh-Burgess Mee.png" alt="BURGESS MEE">
         </div>
         <div class="model-right">
             <h6>BURGESS MEE</h6>
@@ -311,10 +311,10 @@
     <div class="modal-dialog modal-dialog-centered" role="document">
         <div class="modal-content align-items-center">
             <div class="model-left d-flex align-items-center justify-content-center">
-                <img src="assets/images/Sponsor-Lane.png" alt="LANE FERTILITY">
+                <img src="assets/images/Sponsor-Lane.png" alt="LANE FERTILITY INSTITUTE">
             </div>
             <div class="model-right">
-                <h6>LANE FERTILITY</h6>
+                <h6>LANE FERTILITY INSTITUTE</h6>
                 <p>The most essential building block of any family is love, however, unique challenges and legal questions often exist for LGBTQ+ families. Our dedicated team has put together an exclusive network of family building experts who specialize in IVF, egg donation, sperm donation, LGBTQ+ surrogacy laws, and more resources to keep you well-informed every step of your family-building journey. </p>
             </div>
         </div>
@@ -459,7 +459,7 @@ ADOPTION</h6>
     <div class="modal-dialog modal-dialog-centered" role="document">
         <div class="modal-content align-items-center">
             <div class="model-left d-flex align-items-center justify-content-center">
-                <img src=""assets/images/advocates/Stokoe-web.jpg" alt="Jacob Stokoe">
+                <img src="assets/images/advocates/Stokoe-web.jpg" alt="Jacob Stokoe">
             </div>
             <div class="model-right">
                 <h6>Jacob Stokoe <br/>TRANSPARENTING</h6>

@@ -140,6 +140,7 @@ body.sticky .header.sticky { padding: 20px 0; }
 /* why attend */
 
 /* Our last show */
+.abt-list { margin:5px 0 0 15px;  }
 .last-show-bg-left{ width:80px; right:calc(100% + 12%); height: 158px; top: 2080px; }
 .last-show-green-dots { width:130px; left: calc(100% + 12%); height: 47px; top: 2120px;}
 .last_show_text{ padding-top:90px; padding-bottom:60px; background-color:#0FE6A9; color:#fff; position: relative;}
@@ -242,7 +243,7 @@ body.sticky .header.sticky { padding: 20px 0; }
 .media-icon{ display:flex; align-items:center; justify-content:center; height:278px; width:100%; position:relative;}
 
 .mediaPop .model-left {background:#fff;}
-.advocates_list { padding:25px 0 0; margin: -15px; overflow:hidden;}
+.advocates_list { padding:25px 0 0; margin: -15px; overflow:hidden; display: flex; flex-wrap: wrap; justify-content: center;}
 .advocates_list li { padding:15px; height:100%; max-width: 25%; min-width: 25%;}
 .advocates_list li a{ display:block; border:1px solid #EBD1A5; height:100%; width:100%; font-size:0;}
 .advocates_list li a img { height:100%; width:100%; object-fit:contain; }
@@ -289,16 +290,15 @@ body.sticky .header.sticky { padding: 20px 0; }
 /* CONTACT HTML */
 
 .modal { padding-right:0 !important;}
-.modal-content{ background:#fafafa;border-radius:10px;flex-direction:inherit;}
-.modal-dialog{ max-width:92%; width:1022px; margin:0 auto;}
-.modal-content{ padding: 40px;padding-right: 65px; display: flex;}
+.modal-content{ background:#fafafa;border-radius:10px;flex-direction:inherit;  padding: 40px;padding-right: 65px; display: flex;}
+.modal-dialog{ max-width:92%; margin:0 auto;}
 .model-left {width: 340px;max-width: 340px;height: 326px;background: #fff;border: 1px solid #EBD1A5;}
 .model-left img {max-width: 80%;max-height: 80%;}
 .model-right {max-width: calc(100% - 340px);width: calc(100% - 340px);padding-left: 60px;}
 .model-right h6 { font-size: 2rem;}
 .model-right p {padding: 10px 0; font-size: 1.1rem;}
 .white-popup-block.xl { max-width: 80%; }
-.exibitor_popup.white-popup-block { background: none; max-width:90%; width:1022px; padding: 0; }
+.exibitor_popup.white-popup-block { background: none; max-width:90%; padding: 0; }
 .exibitor_popup .modal-dialog { max-width: none; }
 .mfp-close-btn-in .mfp-close { right: 10px; top: 10px; font-size: 40px;}
 

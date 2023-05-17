@@ -26,7 +26,7 @@
                     <li><a href="about.shtml">About</a></li>
                     <li><a href="blog.shtml">Blog</a></li>
                     <li><a href="contact.shtml">Contact Us</a></li>
-                    <li><a href="images/mfs-events-ltd-data-privacy-policy.pdf">Privacy Policy</a></li>
+                    <li><a href="assets/pdf/mfs-events-ltd-data-privacy-policy.pdf">Privacy Policy</a></li>
                 </ul>
             </div>
 
