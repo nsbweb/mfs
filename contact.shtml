@@ -25,12 +25,12 @@
             <div class="contact">
                 <div class="container">
                     <div class="row">
-                        <div class="col-lg-6">
-                            <h3>CONTACT US</h3>
-                            <p>Want to find out more about attending the show?<br> Or maybe you're interested in exhibiting at the event?</p>
-                            <p>Get in touch - we'd love to hear from you.</p>
+                        <div data-wow-delay="1s" class="wow fadeInUp col-lg-6">
+                            <h3 data-wow-delay="1.1s" class="wow fadeInUp">CONTACT US</h3>
+                            <p data-wow-delay="1.2s" class="wow fadeInUp">Want to find out more about attending the show?<br> Or maybe you're interested in exhibiting at the event?</p>
+                            <p data-wow-delay="1.3s" class="wow fadeInUp">Get in touch - we'd love to hear from you.</p>
 
-                            <ul class="social-icon">
+                            <ul data-wow-delay="1.5s" class="wow fadeInUp social-icon">
                                 <li><a class="social-icon nav-link active" aria-current="page" href="#"><i class="fa-brands fa-facebook"></i></a></li>
                                 <li><a class="social-icon nav-link" href="#"><i class="fa-brands fa-instagram"></i></a></li>
                                 <li><a class="social-icon nav-link" href="#"><i class="fa-brands fa-twitter"></i></a></li>
@@ -38,7 +38,7 @@
                             </ul>
                         </div>
 
-                        <div class="col-lg-6">
+                        <div data-wow-delay="1.7s" class="wow fadeInUp col-lg-6">
                             <form class="contact_page_form">
                                 <input type="text" class="form-control" placeholder="YOUR NAME">
                                 <input type="email" class="form-control" placeholder="YOUR EMAIL">

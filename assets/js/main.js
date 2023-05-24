@@ -90,12 +90,17 @@ $(function () {
     });
 });
 
+$( window ).on("load", function() {
+});
+
+new WOW().init();
+
 /* Open */
 function openNav() {
     document.getElementById("myNav").style.height = "100%";
-  }
-  
-  /* Close */
-  function closeNav() {
+}
+
+/* Close */
+function closeNav() {
     document.getElementById("myNav").style.height = "0%";
-  }
+}

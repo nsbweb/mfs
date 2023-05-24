@@ -2,7 +2,7 @@
 <div class="footer">
     <div class="container">
         <div class="row">
-            <div class="col-lg-3">
+            <div data-wow-delay="1.1s" class="wow fadeInUp col-lg-3">
                 <h5 class="text-uppercase">Email</h5>
 
                 <p class="MFS_footer_link">
@@ -19,7 +19,7 @@
                 </ul>
             </div>
 
-            <div class="col-lg-3">
+            <div data-wow-delay="1.3s" class="wow fadeInUp col-lg-3">
                 <h5 class="text-uppercase">Links</h5>
                 <ul class="footer_links">
                     <li><a href="index.shtml">Home</a></li>
@@ -37,7 +37,7 @@
                 </ul>-->
             </div>
 
-            <div class="col-lg-3">
+            <div data-wow-delay="1.4s" class="wow fadeInUp col-lg-3">
                 <h5 class="text-uppercase">Contact Us</h5>
                 <script charset="utf-8" type="text/javascript" src="//js-eu1.hsforms.net/forms/embed/v2.js"></script>
                 <script>
@@ -80,4 +80,5 @@
 <script src="assets/js/bootstrap.bundle.min.js"></script>
 <script src="assets/js/owl.carousel.min.js"></script>
 <script src="assets/js/jquery.magnific-popup.min.js"></script>
+<script src="assets/js/wow.min.js"></script>
 <script src="assets/js/main.js"></script>

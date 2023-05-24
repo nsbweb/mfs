@@ -9,6 +9,7 @@
 <link href="https://www.dafontfree.net/embed/Y2hhbnRpbGx5LXNlcmlhbC1oZWF2eS1yZWd1bGFyJmRhdGEvMzYvYy8xMjY2NTcvY2hhbnRpbGx5LXNlcmlhbC1oZWF2eS1yZWd1bGFyLnR0Zg" rel="stylesheet" type="text/css"/>
 <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
 <link rel="stylesheet" href="assets/css/magnific-popup.css">
+<link rel="stylesheet" href="assets/css/animate.css">
 <link rel="stylesheet" href="assets/css/style.css">
 <link rel="stylesheet" href="assets/css/media.css">
 

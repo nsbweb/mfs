@@ -24,10 +24,10 @@
             <!-- START : MFS what is it -->
             <div class="section what-is-it">
                 <div class="img-content-sec">            
-                    <div class="img-bdr">
+                    <div data-wow-delay="1s" class="wow fadeInUp img-bdr">
                         <img class="img-fluid" src="assets/images/what-is-it.jpg" alt="What-is-it" />
                     </div>
-                    <div class="content-sec">
+                    <div data-wow-delay="1.2s" class="wow fadeInUp content-sec ">
                         <h3>THE MODERN FAMILY SHOW</h3>
                         <p>Founded by Michael and Wes Johnson-Ellis, known as TwoDadsUK, Dads via UK Surrogacy. The Modern Family Show is an educational family-building event taking place in the UK. A show like no other, designed to safely guide and support the LGBTQ+ community to understand their options for wanting children. Are you interested in; Surrogacy and IVF/IUI, Adoption, Fostering, Co-Parenting, Fertility Preservation, Solo Parenting, and Egg/Sperm Donation?</p>
                         <a href="about.shtml" class="btn btn-bdr btn-pink"><span>Find out more about us</span></a>
@@ -39,10 +39,10 @@
             <!-- START : Why did we create -->
             <div class="section why-create">
                 <div class="img-content-sec reverse">
-                    <div class="img-bdr">
+                    <div data-wow-delay="1s" class="wow fadeInUp img-bdr">
                         <img class="img-fluid" src="assets/images/why-create.jpg" alt="Why-did-we-create" />
                     </div>
-                    <div class="content-sec">
+                    <div data-wow-delay="1.2s" class="wow fadeInUp content-sec">
                         <h3>WHY DID WE CREATE <span>THE MODERN FAMILY SHOW?</span></h3>
                         <p>Having witnessed discrimination firsthand when it comes to family-building as a gay couple, Michael and Wes wanted to create a safe space for the LGBTQ+ community to come and speak to experts, professionals and like-minded people.</p>
                     </div>
@@ -53,10 +53,10 @@
             <!-- START : Why attend -->
             <div class="section why-attend">
                 <div class="img-content-sec">
-                    <div class="img-bdr">
+                    <div data-wow-delay="1s" class="wow fadeInUp img-bdr">
                         <img class="img-fluid why-attend-img" src="assets/images/why-attend-the-show.jpg" alt="Why-attend-the-show" />
                     </div>  
-                    <div class="content-sec">
+                    <div data-wow-delay="1.2s" class="wow fadeInUp content-sec">
                         <h3>WHY ATTEND <span>THE SHOW...</span></h3> 
                         <p>The Modern Family Show provides you with the resources, the experts and gives you the safe space you need to talk in private as part of our open surgery service. We can support the most exciting journey of your life ensuring you're better informed, whilst being treated with the respect you deserve.</p>
                         <p>We've designed The Modern Family Show to not only look and feel different, but to deliver an event that will help you take the next exciting step on a journey to building your family.</p>
@@ -68,8 +68,8 @@
             <!-- START : Last Show -->
             <div class="section last_show">
                 <div class="content-sec">
-                    <h3 class="text-center text-uppercase">Check out our last show...</h3>
-                    <div class="show-gallery owl-carousel owl-theme">
+                    <h3 data-wow-delay="1s" class="wow fadeInUp text-center text-uppercase">Check out our last show...</h3>
+                    <div data-wow-delay="1.2s" class="wow fadeInUp show-gallery owl-carousel owl-theme">
                         <div class="gal-cont"><img src="assets/images/last-show/1.jpg" alt="last_show_member1"></div>
                         <div class="gal-cont"><img src="assets/images/last-show/2.jpg" alt="last_show_member2"></div>
                         <div class="gal-cont"><img src="assets/images/last-show/last-show-img1.jpg" alt="last_show_member3"></div>
@@ -85,9 +85,9 @@
     </div>
 
     <!-- START : LAST SHOW TEXT PART -->
-    <div class="last_show_text">
+    <div data-wow-delay="1s" class="wow fadeInUp last_show_text">
         <div class="container">
-            <div class="testimonial-slider owl-carousel owl-theme">
+            <div data-wow-delay="1.2s" class="wow fadeInUp testimonial-slider owl-carousel owl-theme">
                 <div class="ls-text-sec">
                     <h3>“We really enjoyed the show and loved the diversity of attendees, exhibitors and presentations.<br/> We salute you for all the hard work, great effort and detailed attention that went into creating such a fantastic LGBTQ+ family creation event. <br/> You clearly know how to put on a show!”</h3>
                     <span class="text-uppercase"><b>Herts & Essex Fertility Centre</b></span>

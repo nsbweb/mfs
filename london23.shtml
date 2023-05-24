@@ -21,12 +21,12 @@
             <!-- END : All Shapes -->
 
             <!-- START : MFS what is it -->
-            <div class="section what-is-it">
+            <div data-wow-delay="1s" class="wow fadeInUp section what-is-it">
                 <div class="img-content-sec reverse">            
-                    <div class="img-bdr">
+                    <div data-wow-delay="1.5s" class="wow fadeInUp img-bdr">
                         <img class="img-fluid abt-lon-23-img" src="assets/images/Abt-mfs-lon-23.jpg" alt="Abt-mfs-lon-23" />
                     </div>
-                    <div class="content-sec">
+                    <div data-wow-delay="1.2s" class="wow fadeInUp content-sec">
                         <h3>ABOUT <span>MFS LONDON ‘23</span></h3>
                         <p>There has never been a greater need for an inclusive LGBTQ+ family building event.</p>
                         <p>Packed with life-changing educational content and delivered by an authentic team of parents, experts and special guest speakers, The Modern Family Show will be taking residency at the iconic 8 Northumberland, London.</p>
@@ -46,50 +46,50 @@
             <!-- END : MFS what is it -->
 
             <!-- START : Meet Our Sponsors -->
-            <div class="section why-create">
+            <div data-wow-delay="1s" class="wow fadeInUp section why-create">
                 <div class="img-content-sec justify-content-center text-center">
                     <div class="content-sec">
-                        <h3>MEET OUR SPONSORS</h3>
-                        <p>Our sponsors care deeply about ensuring everyone gets equitable care and support, which is why they are excited to meet you.</p>
+                        <h3 data-wow-delay="1.1s" class="wow fadeInUp">MEET OUR SPONSORS</h3>
+                        <p data-wow-delay="1.2s" class="wow fadeInUp">Our sponsors care deeply about ensuring everyone gets equitable care and support, which is why they are excited to meet you.</p>
                     </div>                
                 </div>
                 <ul class="nav advocates_list">
-                    <li class="nav-item">
+                    <li data-wow-delay="1s" class="wow fadeInUp nav-item">
                         <div class="media-icon">
                             <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#our_sponsor_01">
                                 <img class="img-fluid" src="assets/images/Sponsor-Agora.png" alt="AGORA CLINIC" />
                             </a>
                         </div>
                     </li>
-                    <li class="nav-item">
+                    <li data-wow-delay="1.2s" class="wow fadeInUp nav-item">
                         <div class="media-icon">
                             <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#our_sponsor_02">
                                 <img class="img-fluid" src="assets/images/Sponsor-Avanti.png" alt="AVANTI FOSTERING" />
                             </a>
                         </div>
                     </li>
-                    <li class="nav-item">
+                    <li data-wow-delay="1.3s" class="wow fadeInUp nav-item">
                         <div class="media-icon">
                             <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#our_sponsor_03">
                                 <img class="img-fluid" src="assets/images/Sponsor-Cryos.png" alt="CRYOS INTERNATIONAL SPERM & EGG BANK" />
                             </a>
                         </div>
                     </li>
-                    <li class="nav-item">
+                    <li data-wow-delay="1.4s" class="wow fadeInUp nav-item">
                         <div class="media-icon">
                             <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#our_sponsor_04">
                                 <img class="img-fluid" src="assets/images/Sponsor-HE-FertilyCenter.png" alt="HERTS & ESSEX FERTILITY CNETRE" />
                             </a>
                         </div>
                     </li>
-                    <li class="nav-item">
+                    <li data-wow-delay="1.5s" class="wow fadeInUp nav-item">
                         <div class="media-icon">
                             <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#our_sponsor_05">
                                 <img class="img-fluid" src="assets/images/Sponsor-Lane.png" alt="LANE FERTILITY INSTITUTE" />
                             </a>
                         </div>
                     </li>
-                    <li class="nav-item">
+                    <li data-wow-delay="1.6s" class="wow fadeInUp nav-item">
                         <div class="media-icon">
                             <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#our_sponsor_06">
                                 <img class="img-fluid" src="assets/images/Sponsor-MDR.png" alt="MISCHCON DE REYA LLP" />
@@ -101,135 +101,137 @@
             <!-- END : Meet Our Sponsors -->
 
             <!-- START : OUR EXHIBITORS -->
-            <div class="section why-attend">
+            <div data-wow-delay="1s" class="wow fadeInUp section why-attend">
                 <div class="img-content-sec justify-content-center text-center">
                     <div class="content-sec">
-                        <h3>OUR EXHIBITORS</h3>
-                        <p>We have worked hard to source those with genuine experience of supporting modern family building, especially those who have supported LGBTQ+ people. From Adoption to Fertility Clinics to GC (Surrogacy) Agencies, we have it all covered.</p>
+                        <h3 data-wow-delay="1.2s" class="wow fadeInUp">OUR EXHIBITORS</h3>
+                        <p data-wow-delay="1.3s" class="wow fadeInUp">We have worked hard to source those with genuine experience of supporting modern family building, especially those who have supported LGBTQ+ people. From Adoption to Fertility Clinics to GC (Surrogacy) Agencies, we have it all covered.</p>
                     </div>
                 </div>
                 <ul class="nav advocates_list">
-                    <li class="nav-item">
+                    <li data-wow-delay="1.1s" class="wow fadeInUp nav-item">
                         <div class="media-icon">
                             <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#our_exibitor_01">
                                 <img class="img-fluid" src="assets/images/Exh-Amilis.png" alt="AMILIS" />
                             </a>
                         </div>
                     </li>
-                    <li class="nav-item">
+                    <li data-wow-delay="1.2s" class="wow fadeInUp nav-item">
                         <div class="media-icon">
                             <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#our_exibitor_02">
                                 <img class="img-fluid" src="assets/images/Exh-BDB.png" alt="BORN DONOR BANK" />
                             </a>
                         </div>
                     </li>
-                    <li class="nav-item">
+                    <li data-wow-delay="1.3s" class="wow fadeInUp nav-item">
                         <div class="media-icon">
                             <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#our_exibitor_03">
                                 <img class="img-fluid" src="assets/images/Exh-Burgess Mee.png" alt="BURGESS MEE" />
                             </a>
                         </div>
                     </li>
-                    <li class="nav-item">
+                    <li data-wow-delay="1.4s" class="wow fadeInUp nav-item">
                         <div class="media-icon">
                             <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#our_exibitor_04">
                                 <img class="img-fluid" src="assets/images/Exh-CaliCryo.png" alt="CALIFORNIA CRYOBANK" />
                             </a>
                         </div>
                     </li>
-                    <li class="nav-item">
+
+                    <li data-wow-delay="1.1s" class="wow fadeInUp nav-item">
                         <div class="media-icon">
                             <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#our_exibitor_05">
                                 <img class="img-fluid" src="assets/images/Exh-CRGH.png" alt="CRGH" />
                             </a>
                         </div>
                     </li>
-                    <br>
-                    <li class="nav-item">
+                    <li data-wow-delay="1.2s" class="wow fadeInUp nav-item">
                         <div class="media-icon">
                             <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#our_exibitor_06">
                                 <img class="img-fluid" src="assets/images/Exh-DCN.png" alt="DONOR CONCEPTION NETWORK" />
                             </a>
                         </div>
                     </li>
-                    <li class="nav-item">
+                    <li data-wow-delay="1.3s" class="wow fadeInUp nav-item">
                         <div class="media-icon">
                             <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#our_exibitor_07">
                                 <img class="img-fluid" src="assets/images/Exh-DonorConcierge.png" alt="DONOR CONCIERGE" />
                             </a>
                         </div>
                     </li>
-                    <li class="nav-item">
+                    <li data-wow-delay="1.4s" class="wow fadeInUp nav-item">
                         <div class="media-icon">
                             <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#our_exibitor_08">
                                 <img class="img-fluid" src="assets/images/Exh-ESB.png" alt="EUROPEAN SPERM BANK" />
                             </a>
                         </div>
                     </li>
-                    <!-- <li class="nav-item">
+                    <!-- <li data-wow-delay="1s" class="wow fadeInUp nav-item">
                         <div class="media-icon">
                             <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#our_exibitor_09">
                                 <img class="img-fluid  comin-soon" src="assets/images/comin-soon.jpg" alt="FAMILY INCEPTIONS" />
                             </a>
                         </div>
                     </li> -->
-                    <li class="nav-item">
+                    <li data-wow-delay="1s" class="wow fadeInUp nav-item">
                         <div class="media-icon">
                             <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#our_exibitor_10">
                                 <img class="img-fluid" src="assets/images/Exh-FutureHealth.png" alt="FUTURE HEALTH BIOBANK" />
                             </a>
                         </div>
                     </li>
-                    <li class="nav-item">
+                    <li data-wow-delay="1.2s" class="wow fadeInUp nav-item">
                         <div class="media-icon">
                             <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#our_exibitor_11">
                                 <img class="img-fluid" src="assets/images/Exh-IM.png" alt="INITITUT MARQUES" />
                             </a>
                         </div>
                     </li>
-                    <li class="nav-item">
+                    <li data-wow-delay="1.3s" class="wow fadeInUp nav-item">
                         <div class="media-icon">
                             <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#our_exibitor_12">
                                 <img class="img-fluid" src="assets/images/Exh-ISC.png" alt="INTERNATIONAL SURROGACY CENTER" />
                             </a>
                         </div>
                     </li>
-                    <li class="nav-item">
+                    <li data-wow-delay="1.4s" class="wow fadeInUp nav-item">
                         <div class="media-icon">
                             <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#our_exibitor_13">
                                 <img class="img-fluid" src="assets/images/Exh-Laytons.png" alt="LAYTONS ETL" />
                             </a>
                         </div>
                     </li>
-                    <li class="nav-item">
+
+                    <li data-wow-delay="1.1s" class="wow fadeInUp nav-item">
                         <div class="media-icon">
                             <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#our_exibitor_14">
                                 <img class="img-fluid" src="assets/images/Exh-Lister.png" alt="LISTER FERTILITY CLINIC" />
                             </a>
                         </div>
                     </li>
-                    <li class="nav-item">
+                    <li data-wow-delay="1.2s" class="wow fadeInUp nav-item">
                         <div class="media-icon">
                             <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#our_exibitor_15">
                                 <img class="img-fluid" src="assets/images/Exh-ManFert.png" alt="MANCHESTER FERTILITY" />
                             </a>
                         </div>
                     </li>
-                    <li class="nav-item">
+                    <li data-wow-delay="1.3s" class="wow fadeInUp nav-item">
                         <div class="media-icon">
                             <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#our_exibitor_16">
                                 <img class="img-fluid" src="assets/images/Exh-Mermaids.png" alt="MERMAIDS" />
                             </a>
                         </div>
                     </li>
-                    <li class="nav-item">
+                    <li data-wow-delay="1.4s" class="wow fadeInUp nav-item">
                         <div class="media-icon">
                             <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#our_exibitor_17">
                                 <img class="img-fluid" src="assets/images/Exh-SJ.jpg" alt="MY SURROGACY JOURNEY" />
                             </a>
                         </div>
                     </li>
-                    <li class="nav-item">
+
+                    <li data-wow-delay="1s" class="wow fadeInUp nav-item">
                         <div class="media-icon">
                             <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#our_exibitor_18">
                                 <img class="img-fluid" src="assets/images/Exh-Xytex.png" alt="XYTEX" />
@@ -241,16 +243,16 @@
             <!-- END : OUR EXHIBITORS -->
 
             <!-- START : Seminar Programme -->
-            <div class="section why-attend">
+            <div data-wow-delay="1s" class="wow fadeInUp section why-attend">
                 <div class="img-content-sec reverse">
-                    <div class="img-bdr no-bdr">
+                    <div data-wow-delay="1.4s" class="wow fadeInUp img-bdr no-bdr">
                         <div class="row">
                             <div class="col-xl-12">
                                 <img class="img-fluid seminar-img" src="assets/images/Seminar-Programme.jpg" alt="Seminar Programme" />
                             </div>
                         </div>
                     </div>
-                    <div class="content-sec">
+                    <div data-wow-delay="1.2s" class="wow fadeInUp content-sec">
                         <h3>SEMINAR PROGRAMME</h3>
                         <p>We have worked with industry leading professionals and our incredible partners to bring you the best educational programme available in the industry.</p>
                         <p>We’re working hard behind the scenes to finalise our seminar programme. Check back here later as we’ll publish the programme as soon as it’s ready and you’ll be able to book your free slots then.</p>
@@ -263,63 +265,64 @@
             <!-- START : Seminar Programme -->
 
             <!-- START : Meet Our ADVOCATES -->
-            <div class="section why-create">
-                <div class="img-content-sec justify-content-center text-center">
+            <div data-wow-delay="1s" class="wow fadeInUp section why-create">
+                <div data-wow-delay="1.1s" class="wow fadeInUp img-content-sec justify-content-center text-center">
                     <div class="content-sec">
                         <h3>MEET OUR ADVOCATES</h3>
                     </div>                
                 </div>
                 <ul class="nav advocates_list">
-                    <li class="nav-item">
+                    <li data-wow-delay="1.1s" class="wow fadeInUp nav-item">
                         <div class="media-icon">
                             <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#advocate_01">
                                 <img class="img-fluid" src="assets/images/advocates/Wills-web.jpg" alt="Alex Wills" />
                             </a>
                         </div>
                     </li>
-                    <li class="nav-item">
+                    <li data-wow-delay="1.2s" class="wow fadeInUp nav-item">
                         <div class="media-icon">
                             <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#advocate_02">
                                 <img class="img-fluid" src="assets/images/advocates/Andi-web.jpg" alt="Andi" />
                             </a>
                         </div>
                     </li>
-                    <li class="nav-item">
+                    <li data-wow-delay="1.3s" class="wow fadeInUp nav-item">
                         <div class="media-icon">
                             <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#advocate_03">
                                 <img class="img-fluid" src="assets/images/advocates/Stokoe-web.jpg" alt="Jacob Stokoe" />
                             </a>
                         </div>
                     </li>
-                    <li class="nav-item">
+                    <li data-wow-delay="1.4s" class="wow fadeInUp nav-item">
                         <div class="media-icon">
                             <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#advocate_04">
                                 <img class="img-fluid" src="assets/images/advocates/LGBT-Mummies-web.jpg" alt="Laura - Rose Stacey" />
                             </a>
                         </div>
                     </li>
-                    <li class="nav-item">
+
+                    <li data-wow-delay="1.1s" class="wow fadeInUp nav-item">
                         <div class="media-icon">
                             <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#advocate_05">
                                 <img class="img-fluid" src="assets/images/advocates/Lucy-Amy-web.jpg" alt="Lucy and Amy" />
                             </a>
                         </div>
                     </li>
-                    <li class="nav-item">
+                    <li data-wow-delay="1.2s" class="wow fadeInUp nav-item">
                         <div class="media-icon">
                             <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#advocate_06">
                                 <img class="img-fluid" src="assets/images/advocates/Marley-web.jpg" alt="Marley Conte" />
                             </a>
                         </div>
                     </li>
-                    <li class="nav-item">
+                    <li data-wow-delay="1.3s" class="wow fadeInUp nav-item">
                         <div class="media-icon">
                             <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#advocate_07">
                                 <img class="img-fluid" src="assets/images/advocates/Mike-Wes-web.jpg" alt="Mike and Wes Johnson-Ellis" />
                             </a>
                         </div>
                     </li>
-                    <li class="nav-item">
+                    <li data-wow-delay="1.4s" class="wow fadeInUp nav-item">
                         <div class="media-icon">
                             <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#advocate_08">
                                 <img class="img-fluid" src="assets/images/advocates/Atwal-Brice-web.jpg" alt="IVF Babble" />
@@ -331,50 +334,51 @@
             <!-- END : Meet Our ADVOCATES -->
 
             <!-- START : OUR PARTNERS -->
-            <div class="section last_show">
+            <div data-wow-delay="1s" class="wow fadeInUp section last_show">
                 <div class="img-content-sec  justify-content-center text-center"> 
                     <div class="content-sec">
-                        <h3>OUR PARTNERS</h3>                    
-                        <p>Working with leading experts within LGBTQ+ News, infertility support groups, global networking organisations promoting diversity and one of the most famous Pride celebrations on the planet. Partnerships are crucial to the success of our show. That’s why we’ve teamed up with a number of leading organisations to help promote our messaging and reach all corners of the LGBTQ+ community and those trying to conceive or adopt/foster.</p>
+                        <h3 data-wow-delay="1.2s" class="wow fadeInUp">OUR PARTNERS</h3>                    
+                        <p data-wow-delay="1.3s" class="wow fadeInUp">Working with leading experts within LGBTQ+ News, infertility support groups, global networking organisations promoting diversity and one of the most famous Pride celebrations on the planet. Partnerships are crucial to the success of our show. That’s why we’ve teamed up with a number of leading organisations to help promote our messaging and reach all corners of the LGBTQ+ community and those trying to conceive or adopt/foster.</p>
                     </div>
                 </div>                
                 <ul class="nav advocates_list">
-                    <li class="nav-item">
+                    <li data-wow-delay="1.1s" class="wow fadeInUp nav-item">
                         <div class="media-icon">
                             <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#partner_01">
                                 <img class="img-fluid" src="assets/images/partners/IVF-Babble-partner.jpg" alt="IVF Babble" />
                             </a>
                         </div>
                     </li>
-                    <li class="nav-item">
+                    <li data-wow-delay="1.2s" class="wow fadeInUp nav-item">
                         <div class="media-icon">
                             <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#partner_02">
                                 <img class="img-fluid" src="assets/images/partners/LGBT-Mummies-partner.jpg" alt="LGBT Mummies" />
                             </a>
                         </div>
                     </li>
-                    <li class="nav-item">
+                    <li data-wow-delay="1.3s" class="wow fadeInUp nav-item">
                         <div class="media-icon">
                             <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#partner_03">
                                 <img class="img-fluid" src="assets/images/partners/Mermaids-partner.jpg" alt="Mermaids" />
                             </a>
                         </div>
                     </li>
-                    <li class="nav-item">
+                    <li data-wow-delay="1.4s" class="wow fadeInUp nav-item">
                         <div class="media-icon">
                             <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#partner_04">
                                 <img class="img-fluid" src="assets/images/partners/My-G-Work-partner.jpg" alt="My G Work" />
                             </a>
                         </div>
                     </li>
-                    <li class="nav-item">
+
+                    <li data-wow-delay="1.1s" class="wow fadeInUp nav-item">
                         <div class="media-icon">
                             <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#partner_05">
                                 <img class="img-fluid" src="assets/images/partners/Pride-Angel-partner.jpg" alt="Pride Angels" />
                             </a>
                         </div>
                     </li>
-                    <li class="nav-item">
+                    <li data-wow-delay="1.2s" class="wow fadeInUp nav-item">
                         <div class="media-icon">
                             <a class="nav-link popup-modal" data-effect="mfp-zoom-in" href="#partner_06">
                                 <img class="img-fluid" src="assets/images/partners/IVF-Network-partner.jpg" alt="The IVF Network" />
